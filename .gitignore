@@ -5,3 +5,4 @@ bin/
 include/
 data.db
 *.pyc
+*.egg-info/

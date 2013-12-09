@@ -1,3 +1,5 @@
+import sys
+
 from flask import Flask, render_template, json
 from peewee import SqliteDatabase, Model, IntegerField, CharField, FloatField
 
@@ -35,8 +37,12 @@ def piscines():
     return json.jsonify(result=data)
 
 
-if __name__ == "__main__":
+def main():
     db.connect()
     Piscine.create_table(True)
     app.debug = True
     app.run()
+
+
+if __name__ == "__main__":
+    sys.exit(main())
