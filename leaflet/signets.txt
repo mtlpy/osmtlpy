@@ -1,0 +1,31 @@
+
+=========================
+Signets / Bookmarks
+=========================
+
+
+OverPass API:
+-------------
+
+- Stationnements pour vélos:
+      http://overpass-turbo.eu/s/1se
+
+- Routes secondaires:
+      http://overpass-turbo.eu/s/1y7
+
+- Routes verte 1 (piste cyclable) (exemple d'extraction d'une relation):
+  (Attention: très long à exécuter)
+      http://overpass-turbo.eu/s/1y8
+
+
+Liste des attributs OpenStreetMap
+---------------------------------
+
+http://wiki.openstreetmap.org/wiki/Map_Features
+
+
+Éditeur GeoJSON en ligne:   
+-------------------------
+
+http://geojson.io
+

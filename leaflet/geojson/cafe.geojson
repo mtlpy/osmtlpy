@@ -1,0 +1,3754 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-12-02T05:41:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/237589460",
+      "properties": {
+        "@id": "node/237589460",
+        "amenity": "cafe",
+        "created_by": "JOSM",
+        "name": "La Croissanterie Figaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5986133,
+          45.5194363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/237590709",
+      "properties": {
+        "@id": "node/237590709",
+        "addr:housenumber": "5101",
+        "addr:postcode": "H2V 4G3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "phone": "+1 514 907 7827",
+        "website": "www.starbucks.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.595909,
+          45.5198842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300077245",
+      "properties": {
+        "@id": "node/300077245",
+        "addr:housenumber": "957",
+        "addr:postcode": "H2J 1X4",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Expressions",
+        "phone": "+1 514 528 9688",
+        "website": "www.cafeexpressions.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5801524,
+          45.5273031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340240956",
+      "properties": {
+        "@id": "node/340240956",
+        "addr:housenumber": "124",
+        "addr:postcode": "H2T 2L1",
+        "addr:street": "Saint-Viateur Ouest",
+        "alt_name": "Olimpico Cafe (Open Da Nite)",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Olympic Sport Bar",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6003167,
+          45.5241099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/391849564",
+      "properties": {
+        "@id": "node/391849564",
+        "amenity": "cafe",
+        "name": "Café Starbucks Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5796297,
+          45.4957349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/420041495",
+      "properties": {
+        "@id": "node/420041495",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Presse Café",
+        "operator": "Presse Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5640275,
+          45.4942397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/420041499",
+      "properties": {
+        "@id": "node/420041499",
+        "amenity": "cafe",
+        "cuisine": "sandwich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.560401,
+          45.4945397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/424724186",
+      "properties": {
+        "@id": "node/424724186",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5702494,
+          45.512661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/425718545",
+      "properties": {
+        "@id": "node/425718545",
+        "amenity": "cafe",
+        "name": "Presse Café",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5651953,
+          45.5157847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/425718548",
+      "properties": {
+        "@id": "node/425718548",
+        "amenity": "cafe",
+        "name": "Second Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5619353,
+          45.5145674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458918543",
+      "properties": {
+        "@id": "node/458918543",
+        "addr:housenumber": "3601",
+        "addr:postcode": "H2X 2V5 ",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "phone": "(+1) 514 285 0009",
+        "website": "www.cafedepot.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572641,
+          45.5140664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/459929702",
+      "properties": {
+        "@id": "node/459929702",
+        "amenity": "cafe",
+        "cuisine": "crepe",
+        "name": "Kiosque La bulle au carré",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57037,
+          45.516459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460941348",
+      "properties": {
+        "@id": "node/460941348",
+        "amenity": "cafe",
+        "name": "Van Houtte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5612589,
+          45.5125209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460957382",
+      "properties": {
+        "@id": "node/460957382",
+        "amenity": "cafe",
+        "name": "Presse-Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5587527,
+          45.515504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462248724",
+      "properties": {
+        "@id": "node/462248724",
+        "amenity": "cafe",
+        "name": "Presse Café",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5589756,
+          45.500974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462248781",
+      "properties": {
+        "@id": "node/462248781",
+        "amenity": "cafe",
+        "name": "Thé mon Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.558871,
+          45.5017663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462355164",
+      "properties": {
+        "@id": "node/462355164",
+        "amenity": "cafe",
+        "name": "L'Opéra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5596899,
+          45.5165828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/463999025",
+      "properties": {
+        "@id": "node/463999025",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5556691,
+          45.5188884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468969691",
+      "properties": {
+        "@id": "node/468969691",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "café mon Plaisir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5560392,
+          45.5062028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468969740",
+      "properties": {
+        "@id": "node/468969740",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5600561,
+          45.5056494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468969753",
+      "properties": {
+        "@id": "node/468969753",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5548977,
+          45.5068164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471064732",
+      "properties": {
+        "@id": "node/471064732",
+        "amenity": "cafe",
+        "name": "Café noir",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5741288,
+          45.5146918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471064790",
+      "properties": {
+        "@id": "node/471064790",
+        "addr:housenumber": "3695",
+        "addr:postcode": "H2X 2V7",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "514 564 9270",
+        "website": "www.secondcup.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5742661,
+          45.514752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/486668548",
+      "properties": {
+        "@id": "node/486668548",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Van Houtte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5746428,
+          45.493228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497839303",
+      "properties": {
+        "@id": "node/497839303",
+        "addr:street": "Avenue Mont-Royal Est",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Starbuck Coffee",
+        "source": "Local knowledge",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5815843,
+          45.5257124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497848436",
+      "properties": {
+        "@id": "node/497848436",
+        "amenity": "cafe",
+        "name": "Café Noir",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5822925,
+          45.5243802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/514593512",
+      "properties": {
+        "@id": "node/514593512",
+        "addr:housenumber": "1241",
+        "addr:postcode": "H2J 1Y2",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "phone": "+1 514 905 1325",
+        "website": "www.starbucks.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5782694,
+          45.5292629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810790759",
+      "properties": {
+        "@id": "node/810790759",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.585444,
+          45.5252819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810790762",
+      "properties": {
+        "@id": "node/810790762",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.585961,
+          45.5255391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810791050",
+      "properties": {
+        "@id": "node/810791050",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5877742,
+          45.5291657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/864716958",
+      "properties": {
+        "@id": "node/864716958",
+        "amenity": "cafe",
+        "name": "Cafe Atlantique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5539602,
+          45.5038477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/864716965",
+      "properties": {
+        "@id": "node/864716965",
+        "amenity": "cafe",
+        "name": "Serafim",
+        "phone": "514.861.8181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5515098,
+          45.5098082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/868479771",
+      "properties": {
+        "@id": "node/868479771",
+        "addr:housenumber": "645",
+        "addr:street": "Avenue du Président-Kennedy",
+        "amenity": "cafe",
+        "name": "Caffe ArtJava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5724408,
+          45.5046362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/882652074",
+      "properties": {
+        "@id": "node/882652074",
+        "amenity": "cafe",
+        "created_by": "iLOE 1.8",
+        "name": "Starbucks",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57166,
+          45.505105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932436747",
+      "properties": {
+        "@id": "node/932436747",
+        "addr:housenumber": "1417",
+        "addr:street": "Rue Amherst",
+        "amenity": "cafe",
+        "name": "Tinto",
+        "website": "http://www.cafetintomontreal.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5574128,
+          45.5177219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/934203568",
+      "properties": {
+        "@id": "node/934203568",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "La petite cuillère",
+        "outdoor_seating": "yes",
+        "website": "http://www.petitecuillere.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569364,
+          45.517867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936979474",
+      "properties": {
+        "@id": "node/936979474",
+        "amenity": "cafe",
+        "name": "Java u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572868,
+          45.50545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/938752834",
+      "properties": {
+        "@id": "node/938752834",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1495",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "internet_access": "wlan",
+        "name": "1000 grammes bistro glouton",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.553876,
+          45.521136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/940349392",
+      "properties": {
+        "@id": "node/940349392",
+        "amenity": "cafe",
+        "name": "Chinese buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5651922,
+          45.4980381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/988792368",
+      "properties": {
+        "@id": "node/988792368",
+        "amenity": "cafe",
+        "name": "Java U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5603629,
+          45.5030666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/998748014",
+      "properties": {
+        "@id": "node/998748014",
+        "addr:housenumber": "2081",
+        "addr:street": "Rue Guy",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5796559,
+          45.4959818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/998748019",
+      "properties": {
+        "@id": "node/998748019",
+        "addr:housenumber": "1455",
+        "addr:street": "Rue Guy",
+        "amenity": "cafe",
+        "name": "Java U",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5790491,
+          45.495755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/998748022",
+      "properties": {
+        "@id": "node/998748022",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Dépôt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5786299,
+          45.4964528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1016199168",
+      "properties": {
+        "@id": "node/1016199168",
+        "amenity": "cafe",
+        "name": "Ben and Jerry's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5530588,
+          45.508063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1057444518",
+      "properties": {
+        "@id": "node/1057444518",
+        "addr:postcode": "F4G 4F6",
+        "amenity": "cafe",
+        "cuisine": "doughnuts",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569214,
+          45.502753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1057471110",
+      "properties": {
+        "@id": "node/1057471110",
+        "amenity": "cafe",
+        "name": "Café Starbucks Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5660981,
+          45.5069723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1067262124",
+      "properties": {
+        "@id": "node/1067262124",
+        "amenity": "cafe",
+        "name": "Van Houtte",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575705,
+          45.500209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1068232422",
+      "properties": {
+        "@id": "node/1068232422",
+        "amenity": "cafe",
+        "name": "Starbucks Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.573743,
+          45.500832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1068433241",
+      "properties": {
+        "@id": "node/1068433241",
+        "amenity": "cafe",
+        "name": "Treats",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574209,
+          45.500937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1106511224",
+      "properties": {
+        "@id": "node/1106511224",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5712686,
+          45.4956481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1106702256",
+      "properties": {
+        "@id": "node/1106702256",
+        "amenity": "cafe",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5213096,
+          45.5244603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1113857777",
+      "properties": {
+        "@id": "node/1113857777",
+        "addr:housenumber": "900",
+        "addr:postcode": "H2J 1X2",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Second Cup",
+        "phone": "514 528 1717",
+        "smoking": "no",
+        "website": "www.secondcup.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5803618,
+          45.5265023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1192154243",
+      "properties": {
+        "@id": "node/1192154243",
+        "amenity": "cafe",
+        "name": "Second Cup",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5780144,
+          45.4946442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1192154324",
+      "properties": {
+        "@id": "node/1192154324",
+        "amenity": "cafe",
+        "name": "Café Starbucks Coffee",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5781834,
+          45.494505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1198658670",
+      "properties": {
+        "@id": "node/1198658670",
+        "addr:housenumber": "4127",
+        "addr:street": "Boulevard St-Laurent",
+        "amenity": "cafe",
+        "name": "Cafe Pi",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5809873,
+          45.5178207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1199366699",
+      "properties": {
+        "@id": "node/1199366699",
+        "amenity": "cafe",
+        "name": "Café Starbucks Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5756084,
+          45.4969886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1199680219",
+      "properties": {
+        "@id": "node/1199680219",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5774752,
+          45.4968118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1202560998",
+      "properties": {
+        "@id": "node/1202560998",
+        "amenity": "cafe",
+        "name": "Café Dépôt",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5768234,
+          45.4990491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1205131688",
+      "properties": {
+        "@id": "node/1205131688",
+        "amenity": "cafe",
+        "name": "M Café",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5767808,
+          45.4985415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1231381513",
+      "properties": {
+        "@id": "node/1231381513",
+        "addr:housenumber": "1384",
+        "addr:postcode": "H3G 2E8",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "amenity": "cafe",
+        "name": "Le café des beaux-arts",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5795792,
+          45.4985268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1232026989",
+      "properties": {
+        "@id": "node/1232026989",
+        "addr:housenumber": "2045",
+        "addr:postcode": "H3G 2C1",
+        "addr:street": "Rue Crescent",
+        "amenity": "cafe",
+        "name": "Nespresso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5777757,
+          45.4983266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1263357123",
+      "properties": {
+        "@id": "node/1263357123",
+        "amenity": "cafe",
+        "name": "Thé Kiosque",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5775795,
+          45.4959522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1271672559",
+      "properties": {
+        "@id": "node/1271672559",
+        "addr:housenumber": "1241",
+        "addr:postcode": "h3b5k4",
+        "addr:street": "Avenue McGill-College",
+        "amenity": "cafe",
+        "name": "Java U Café",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.570212,
+          45.501726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1271672562",
+      "properties": {
+        "@id": "node/1271672562",
+        "amenity": "cafe",
+        "name": "Café Dépôt",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5705145,
+          45.5014441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1271672568",
+      "properties": {
+        "@id": "node/1271672568",
+        "amenity": "cafe",
+        "name": "Van Houte",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5691308,
+          45.5007647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1271672582",
+      "properties": {
+        "@id": "node/1271672582",
+        "amenity": "cafe",
+        "cuisine": "dessert",
+        "name": "Brioche doré",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5692327,
+          45.5006443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1278632226",
+      "properties": {
+        "@id": "node/1278632226",
+        "amenity": "cafe",
+        "name": "Café suprême",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56653,
+          45.5033877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1278632281",
+      "properties": {
+        "@id": "node/1278632281",
+        "amenity": "cafe",
+        "cuisine": "doughnuts",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5668224,
+          45.5029402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1281694815",
+      "properties": {
+        "@id": "node/1281694815",
+        "amenity": "cafe",
+        "name": "Second Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5682138,
+          45.5040271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1290835333",
+      "properties": {
+        "@id": "node/1290835333",
+        "amenity": "cafe",
+        "name": "Café Bongiorno",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5714259,
+          45.4998413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1302772197",
+      "properties": {
+        "@id": "node/1302772197",
+        "amenity": "cafe",
+        "name": "Café Vienne",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5671414,
+          45.5024157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1307144657",
+      "properties": {
+        "@id": "node/1307144657",
+        "amenity": "cafe",
+        "name": "Café Java U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5748724,
+          45.5000336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1307144790",
+      "properties": {
+        "@id": "node/1307144790",
+        "amenity": "cafe",
+        "name": "Café Vasco Da Gama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5744862,
+          45.5006389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315087435",
+      "properties": {
+        "@id": "node/1315087435",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5518508,
+          45.5258831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1374812556",
+      "properties": {
+        "@id": "node/1374812556",
+        "amenity": "cafe",
+        "name": "Café Dépôt",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5694155,
+          45.5078171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1398030183",
+      "properties": {
+        "@id": "node/1398030183",
+        "addr:city": "Montréal",
+        "addr:housenumber": "150",
+        "addr:postcode": "H5B 2B8",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "amenity": "cafe",
+        "drink:espresso": "served",
+        "internet_access": "yes",
+        "name": "Cafe Depot",
+        "phone": "5142869598",
+        "ref": "Loc# 214",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5650522,
+          45.5081543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1429426115",
+      "properties": {
+        "@id": "node/1429426115",
+        "amenity": "cafe",
+        "cuisine": "french",
+        "name": "La Brioche Lyonnaise",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.562537,
+          45.514818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1429426177",
+      "properties": {
+        "@id": "node/1429426177",
+        "amenity": "cafe",
+        "name": "Presse-Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5629383,
+          45.5155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1429426206",
+      "properties": {
+        "@id": "node/1429426206",
+        "amenity": "cafe",
+        "name": "Café Dépôt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5597452,
+          45.5159624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1429426308",
+      "properties": {
+        "@id": "node/1429426308",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5626621,
+          45.5148657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1429426316",
+      "properties": {
+        "@id": "node/1429426316",
+        "amenity": "cafe",
+        "name": "Brûlerie St-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5623858,
+          45.5147463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432358624",
+      "properties": {
+        "@id": "node/1432358624",
+        "amenity": "cafe",
+        "name": "Van Houtte",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698722,
+          45.5073047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1450153382",
+      "properties": {
+        "@id": "node/1450153382",
+        "amenity": "cafe",
+        "name": "Cactus Wa Wa Tea House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5774565,
+          45.4961952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1457950373",
+      "properties": {
+        "@id": "node/1457950373",
+        "amenity": "cafe",
+        "name": "Toi & Moi Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5949037,
+          45.520384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1531257140",
+      "properties": {
+        "@id": "node/1531257140",
+        "addr:housename": "Eaton Center",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "designation": "crepe",
+        "name": "Yeh Yogurt and cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5718392,
+          45.5028438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1531257949",
+      "properties": {
+        "@id": "node/1531257949",
+        "addr:housename": "Eaton Center",
+        "addr:postcode": "h3g4h5",
+        "amenity": "cafe",
+        "cuisine": "ice_cream:doughnuts",
+        "name": "Baskin-Robbins Ice Cream",
+        "website": "http://baskinrobbins.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571174,
+          45.502543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557702182",
+      "properties": {
+        "@id": "node/1557702182",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5866801,
+          45.5200022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1558670026",
+      "properties": {
+        "@id": "node/1558670026",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568608,
+          45.50697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1558692909",
+      "properties": {
+        "@id": "node/1558692909",
+        "addr:housenumber": "5059",
+        "addr:postcode": "H2V 4E9",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Van Houtte",
+        "phone": "+1 514 495 1324",
+        "website": "www.vanhoutte.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5953392,
+          45.5196486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1560685331",
+      "properties": {
+        "@id": "node/1560685331",
+        "addr:housenumber": "7000",
+        "addr:postcode": "H3N 1X1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Ahuntsic-Cartierville",
+        "amenity": "cafe",
+        "email": "artere@artere.coop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café l'Artère",
+        "opening_hours": "Mo 08:00-16:00; Tu-We 08:00-22:00; Th 08:00-23:00; Fr: 08:00-00:00; Sa: 10:00-00:00; Su: 10:00-17:00",
+        "phone": "+1 514 419 7798",
+        "website": "www.artere.coop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6201038,
+          45.5295471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1571409714",
+      "properties": {
+        "@id": "node/1571409714",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5785857,
+          45.516743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1571507503",
+      "properties": {
+        "@id": "node/1571507503",
+        "amenity": "cafe",
+        "name": "Fuschia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5787048,
+          45.5178631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1571507511",
+      "properties": {
+        "@id": "node/1571507511",
+        "amenity": "cafe",
+        "cuisine": "portuguese",
+        "name": "Café Central Portugais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57899,
+          45.517558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1617212528",
+      "properties": {
+        "@id": "node/1617212528",
+        "addr:housenumber": "1711",
+        "addr:street": "Rue Berri",
+        "amenity": "cafe",
+        "created_by": "iLOE 1.9",
+        "name": "Presse Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563251,
+          45.516663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1621008921",
+      "properties": {
+        "@id": "node/1621008921",
+        "addr:housenumber": "7",
+        "addr:postcode": "H3E 2B5",
+        "addr:province": "QC",
+        "addr:street": "Place du Commerce, suite 101",
+        "addr:suburb": "Verdun",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "name:en": "Second Cup",
+        "phone": "+1 514 769 2992",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5432216,
+          45.4680909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643704031",
+      "properties": {
+        "@id": "node/1643704031",
+        "addr:housenumber": "2440",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Starbucks",
+        "operator": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5744759,
+          45.4832514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643704232",
+      "properties": {
+        "@id": "node/1643704232",
+        "addr:housenumber": "2515",
+        "amenity": "cafe",
+        "name": "lili & oli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5755129,
+          45.4828614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1654265327",
+      "properties": {
+        "@id": "node/1654265327",
+        "amenity": "cafe",
+        "name": "Falco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.598057,
+          45.5280786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1654271551",
+      "properties": {
+        "@id": "node/1654271551",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "District Café",
+        "phone": "+1-514-270-8931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5980409,
+          45.5270695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1666308940",
+      "properties": {
+        "@id": "node/1666308940",
+        "amenity": "cafe",
+        "created_by": "iLOE 1.9",
+        "name": "La Cabane du Délice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.580692,
+          45.522596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704789540",
+      "properties": {
+        "@id": "node/1704789540",
+        "addr:housenumber": "5302",
+        "addr:postcode": "H3T 1Y2",
+        "addr:street": "Chemin de la Côte-Des-Neiges",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6223941,
+          45.4961933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1743314556",
+      "properties": {
+        "@id": "node/1743314556",
+        "amenity": "cafe",
+        "name": "Sardine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5946289,
+          45.5242321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1743315868",
+      "properties": {
+        "@id": "node/1743315868",
+        "amenity": "cafe",
+        "name": "Kilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59494,
+          45.5238413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1743949810",
+      "properties": {
+        "@id": "node/1743949810",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5950211,
+          45.5231159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1743950603",
+      "properties": {
+        "@id": "node/1743950603",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5892704,
+          45.5274981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1751182525",
+      "properties": {
+        "@id": "node/1751182525",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5996891,
+          45.5247274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1803646917",
+      "properties": {
+        "@id": "node/1803646917",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Noir",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5531136,
+          45.5237993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816339704",
+      "properties": {
+        "@id": "node/1816339704",
+        "addr:housenumber": "5201",
+        "addr:street": "St. Laurent",
+        "amenity": "cafe",
+        "name": "Lawrence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.594687,
+          45.524068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1935431192",
+      "properties": {
+        "@id": "node/1935431192",
+        "addr:housenumber": "151",
+        "addr:street": "rue Rachel Est",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Cafe Neve",
+        "website": "cafeneve.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5805112,
+          45.5195279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1935440397",
+      "properties": {
+        "@id": "node/1935440397",
+        "amenity": "cafe",
+        "name": "Il Caffe Cuore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.585168,
+          45.5177354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1966795948",
+      "properties": {
+        "@id": "node/1966795948",
+        "addr:housenumber": "3632",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Saint Henri Micro-Torrefaction",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa,Su 08:30-20:00",
+        "website": "http://www.sainthenri.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5811096,
+          45.479372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1967618774",
+      "properties": {
+        "@id": "node/1967618774",
+        "addr:housenumber": "3068",
+        "addr:postcode": "H4C 1A5",
+        "addr:street": "Rue Saint-Antoine Ouest",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Café Joe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5814883,
+          45.4848302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2023153129",
+      "properties": {
+        "@id": "node/2023153129",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Le Couteau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58446,
+          45.5248916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2047449789",
+      "properties": {
+        "@id": "node/2047449789",
+        "addr:housenumber": "59",
+        "addr:postcode": "H2S 1R1",
+        "addr:street": "Beaubien",
+        "amenity": "cafe",
+        "email": "vieux.velo@gmail.com",
+        "name": "Le Vieux Vélo",
+        "phone": "514-439-5595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6078994,
+          45.5310425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2047454765",
+      "properties": {
+        "@id": "node/2047454765",
+        "addr:housenumber": "214",
+        "addr:postcode": "H2T 2K4",
+        "addr:street": "Bernard Ouest",
+        "amenity": "cafe",
+        "name": "La Lumière du Mile-End",
+        "opening_hours": "Th-Tu 11:00-20:00",
+        "phone": "514-658-4949",
+        "website": "www.lalumieredumileend.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6045704,
+          45.5245769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079875311",
+      "properties": {
+        "@id": "node/2079875311",
+        "amenity": "cafe",
+        "name": "Le Paltoquet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615608,
+          45.519451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2084767659",
+      "properties": {
+        "@id": "node/2084767659",
+        "addr:housenumber": "263",
+        "addr:postcode": "H2T 1P6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café Kahwa",
+        "phone": "+1 514 564 2111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584173,
+          45.522648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2084790270",
+      "properties": {
+        "@id": "node/2084790270",
+        "amenity": "cafe",
+        "cuisine": "vegetarian",
+        "name": "Le dépanneur Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6044962,
+          45.5246175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2103017733",
+      "properties": {
+        "@id": "node/2103017733",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2451",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "amenity": "cafe",
+        "email": "notredame@java-u.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Java U Notre Dame",
+        "operator": "Java U",
+        "phone": "514-5071444",
+        "smoking": "no",
+        "website": "http://www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5747493,
+          45.4833251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2168856702",
+      "properties": {
+        "@id": "node/2168856702",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Starbucks Coffee Peel",
+        "operator": "Starbucks",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5734537,
+          45.5001587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2172009079",
+      "properties": {
+        "@id": "node/2172009079",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2713",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "amenity": "cafe",
+        "name": "Café Aux Grains d'Arome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5771413,
+          45.4818506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2172009117",
+      "properties": {
+        "@id": "node/2172009117",
+        "amenity": "cafe",
+        "name": "Toi Moi & Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5770166,
+          45.4819213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2175600497",
+      "properties": {
+        "@id": "node/2175600497",
+        "addr:housenumber": "3506",
+        "amenity": "cafe",
+        "name": "Chai The Lounge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5741549,
+          45.5095392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2175713420",
+      "properties": {
+        "@id": "node/2175713420",
+        "addr:housenumber": "3498",
+        "addr:postcode": "H2X 2H5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "(+1) 514 286 4422",
+        "website": "www.secondcup.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736247,
+          45.5093469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2268980645",
+      "properties": {
+        "@id": "node/2268980645",
+        "addr:housenumber": "2361",
+        "addr:postcode": "H2K 1W8",
+        "addr:street": "Ontario Est",
+        "alt_name": "Café de quartier",
+        "amenity": "cafe",
+        "designation": "Café de quartier",
+        "internet_access": "wlan",
+        "name": "Coop Touski",
+        "source": "http://www.touski.org/",
+        "website": "http://www.touski.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5545933,
+          45.5311206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2305939158",
+      "properties": {
+        "@id": "node/2305939158",
+        "addr:housename": "Club Social",
+        "addr:housenumber": "180",
+        "addr:postcode": "H2T 2L4 ",
+        "addr:street": "Saint Viateur",
+        "amenity": "cafe",
+        "cuisine": "spanish",
+        "name": "Café Club Social"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6008478,
+          45.5234838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2316633139",
+      "properties": {
+        "@id": "node/2316633139",
+        "addr:city": "Montréal",
+        "addr:housenumber": "131",
+        "addr:postcode": "H2X 1B6",
+        "addr:street": "Rue Prince-Arthur Est",
+        "amenity": "cafe",
+        "name": "Café Sierra Colombia",
+        "outdoor_seating": "yes",
+        "phone": "514-508-6563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571485,
+          45.515178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2329808740",
+      "properties": {
+        "@id": "node/2329808740",
+        "amenity": "cafe",
+        "cuisine": "chinese",
+        "name": "magic idea thé lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5601734,
+          45.5077564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2329857454",
+      "properties": {
+        "@id": "node/2329857454",
+        "amenity": "cafe",
+        "cuisine": "tea_shop",
+        "name": "Senzuru bubble tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5605156,
+          45.5075349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2329982315",
+      "properties": {
+        "@id": "node/2329982315",
+        "addr:city": "Montréal",
+        "addr:housenumber": "71a",
+        "addr:street": "Rue de La Gauchetière Ouest",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "no",
+        "name": "L2 desserts lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5606833,
+          45.5072742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2342911097",
+      "properties": {
+        "@id": "node/2342911097",
+        "addr:housenumber": "75",
+        "addr:postcode": "H3C 2M6",
+        "addr:street": "Queen",
+        "amenity": "cafe",
+        "name": "Pasta Café",
+        "source": "witness location",
+        "website": "http://www.pasta-cafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5543536,
+          45.4978404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2342912024",
+      "properties": {
+        "@id": "node/2342912024",
+        "addr:housenumber": "87",
+        "addr:postcode": "H3C 2M7",
+        "addr:street": "rue Prince",
+        "amenity": "cafe",
+        "name": "Café de la cité",
+        "source": "witness location",
+        "website": "http://www.pasta-cafe.com/#bk10-frn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5548647,
+          45.4967848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406166812",
+      "properties": {
+        "@id": "node/2406166812",
+        "addr:housenumber": "1275",
+        "addr:postcode": "H2V 1V8",
+        "addr:province": "QC",
+        "addr:street": "Avenue Bernard",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 271 6624",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6094886,
+          45.5194868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406177729",
+      "properties": {
+        "@id": "node/2406177729",
+        "addr:housenumber": "1317",
+        "addr:postcode": "H2V 1K7",
+        "addr:street": "Van Horne",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Café Prague"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6145392,
+          45.5210542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406547233",
+      "properties": {
+        "@id": "node/2406547233",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1709",
+        "addr:postcode": "H2X 3K4",
+        "addr:street": "rue Saint-Denis",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "phone": "+1-514-904-5288",
+        "website": "http://www.starbucks.ca/store/805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5641625,
+          45.5155418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2408142712",
+      "properties": {
+        "@id": "node/2408142712",
+        "addr:housenumber": "1447",
+        "addr:postcode": "H2V 1K9",
+        "addr:province": "QC",
+        "addr:street": "Avenue Van Horne",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Café Van Houtte",
+        "phone": "+1 514 273 5924",
+        "website": "www.vanhoutte.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6156996,
+          45.519925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2422236110",
+      "properties": {
+        "@id": "node/2422236110",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1550",
+        "addr:street": "Rue Amherst",
+        "amenity": "cafe",
+        "name": "Café Causerie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559128,
+          45.518341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2422238973",
+      "properties": {
+        "@id": "node/2422238973",
+        "addr:housenumber": "1251",
+        "addr:street": "Ontario",
+        "amenity": "cafe",
+        "name": "Café Pamplemousse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5622074,
+          45.5217114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2424888521",
+      "properties": {
+        "@id": "node/2424888521",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5521433,
+          45.522641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2429722087",
+      "properties": {
+        "@id": "node/2429722087",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1490",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "amenity": "cafe",
+        "name": "Ô Plaisirs Gourmands",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5808564,
+          45.4971849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2429724983",
+      "properties": {
+        "@id": "node/2429724983",
+        "addr:city": "Montréal",
+        "addr:housenumber": "335",
+        "addr:postcode": "H2X 1K1",
+        "addr:street": "Boulevard de Maisonneuve Est",
+        "amenity": "cafe",
+        "name": "Café-Bar de la Cinémathèque québécoise",
+        "opening_hours": "Mo 12:00-18:00; Tu-Fr 12:00-22:00",
+        "phone": "+1-514-842-9763",
+        "website": "http://www.cinematheque.qc.ca/fr/services/cafe-bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5627353,
+          45.5137365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2434004004",
+      "properties": {
+        "@id": "node/2434004004",
+        "addr:housenumber": "5151",
+        "addr:street": "Avenue du Parc",
+        "amenity": "cafe",
+        "cuisine": "donut",
+        "name": "Chez Boris",
+        "website": "http://www.chezboris.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.596774,
+          45.5202596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2440705840",
+      "properties": {
+        "@id": "node/2440705840",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1694",
+        "addr:postcode": "H2L 2J4",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "CACAO 70",
+        "note": "Le site Internet ne montre que le café sur Sainte-Catherine Ouest.",
+        "website": "http://cacao70.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5551172,
+          45.5195148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2443756928",
+      "properties": {
+        "@id": "node/2443756928",
+        "addr:city": "Montréal",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5548602,
+          45.5200546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2443756929",
+      "properties": {
+        "@id": "node/2443756929",
+        "addr:city": "Montréal",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "amenity": "cafe",
+        "name": "Café Starbuck Coffee",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5554906,
+          45.5193983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459725824",
+      "properties": {
+        "@id": "node/2459725824",
+        "addr:city": "Montréal",
+        "addr:street": "Avenue de Monkland",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "CHO'COLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6229822,
+          45.4756515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459755125",
+      "properties": {
+        "@id": "node/2459755125",
+        "addr:city": "Montréal",
+        "addr:street": "Avenue de Monkland",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Second Cup",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6226841,
+          45.4755481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459755130",
+      "properties": {
+        "@id": "node/2459755130",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5526",
+        "addr:postcode": "H4A 1C7",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Starbucks",
+        "phone": "+1 514 904 2233",
+        "source": "local_knowledge",
+        "website": "www.starbucks.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6219337,
+          45.4763321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2479541440",
+      "properties": {
+        "@id": "node/2479541440",
+        "addr:city": "Montréal",
+        "addr:street": "Boulevard De Maisonneuve Ouest",
+        "amenity": "cafe",
+        "name": "Café bistro Al VanHoutte",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5695121,
+          45.5063509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2494028339",
+      "properties": {
+        "@id": "node/2494028339",
+        "amenity": "cafe",
+        "drive_through": "no",
+        "name": "Café République"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.564794,
+          45.508962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131046",
+      "properties": {
+        "@id": "node/2496131046",
+        "addr:housenumber": "4910",
+        "addr:postcode": "H2T 1R5 ",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "phone": "+1 514 284 6866",
+        "website": "www.cafedepot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5912248,
+          45.5222052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131047",
+      "properties": {
+        "@id": "node/2496131047",
+        "addr:housenumber": "1695",
+        "addr:postcode": "H2J 1Z6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "phone": "+1 514 522 9555",
+        "website": "www.cafedepot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5749155,
+          45.5329156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131052",
+      "properties": {
+        "@id": "node/2496131052",
+        "addr:housenumber": "4750",
+        "addr:postcode": "H2T 2C8",
+        "addr:province": "QC",
+        "addr:street": "Avenue Henri-Julien",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 282 3369",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5865558,
+          45.5238829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131053",
+      "properties": {
+        "@id": "node/2496131053",
+        "addr:housenumber": "5800",
+        "addr:postcode": "H2S 3L5 ",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Rosemont-Petite-Patrie",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 274 2666",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5988739,
+          45.5302163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131093",
+      "properties": {
+        "@id": "node/2496131093",
+        "addr:housenumber": "5121",
+        "addr:postcode": "H2T 1R9",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Le Boui-Boui",
+        "phone": "+1 514 564 9997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5931832,
+          45.523383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131108",
+      "properties": {
+        "@id": "node/2496131108",
+        "addr:housenumber": "1648",
+        "addr:postcode": "H2J 1Z5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 524 7772",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5748625,
+          45.5328456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496678400",
+      "properties": {
+        "@id": "node/2496678400",
+        "addr:city": "Montréal",
+        "addr:street": "Avenue Monkland",
+        "amenity": "cafe",
+        "name": "Croissant Monkland",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.622285,
+          45.4764559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896383",
+      "properties": {
+        "@id": "node/2496896383",
+        "addr:housenumber": "400",
+        "addr:postcode": "H2V 1A5",
+        "addr:province": "QC",
+        "addr:street": "Avenue Atlantic",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 278 4192",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61623,
+          45.527231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896384",
+      "properties": {
+        "@id": "node/2496896384",
+        "addr:housenumber": "5718",
+        "addr:postcode": "H2V 4H1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "EM Café",
+        "phone": "+1 514 303 5735",
+        "website": "www.emcafe.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6050462,
+          45.5232663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911284",
+      "properties": {
+        "@id": "node/2496911284",
+        "addr:housenumber": "5505",
+        "addr:postcode": "H2T 1L6",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent , suite 2001",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 270 1515",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5987455,
+          45.5259423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911286",
+      "properties": {
+        "@id": "node/2496911286",
+        "addr:housenumber": "77",
+        "addr:postcode": "H2W 2T6",
+        "addr:province": "QC",
+        "addr:street": "Rue Rachel Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "La Normande",
+        "phone": "+1 514 849 3423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5813233,
+          45.5186858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500174462",
+      "properties": {
+        "@id": "node/2500174462",
+        "addr:housenumber": "5365",
+        "addr:postcode": "H3X 1T9",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Hampstead",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 485 2909",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6303259,
+          45.4825261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240137",
+      "properties": {
+        "@id": "node/2500240137",
+        "addr:housenumber": "4126",
+        "addr:postcode": "H3Z 1P4",
+        "addr:province": "QC",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café London Bus",
+        "phone": "+1 514 931 5571",
+        "website": "www.cafelondonbus.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5869309,
+          45.4868517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240144",
+      "properties": {
+        "@id": "node/2500240144",
+        "addr:housenumber": "5511",
+        "addr:postcode": "H4A 1C8",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 369 1688",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.622015,
+          45.476726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240145",
+      "properties": {
+        "@id": "node/2500240145",
+        "addr:housenumber": "4914",
+        "addr:postcode": "H3Z 1H3",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Java U",
+        "phone": "+1 514 482 7077",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6043594,
+          45.4779429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240146",
+      "properties": {
+        "@id": "node/2500240146",
+        "addr:housenumber": "5120",
+        "addr:postcode": "H3W 1X2",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 343 5288",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6272369,
+          45.48519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240147",
+      "properties": {
+        "@id": "node/2500240147",
+        "addr:housenumber": "4104",
+        "addr:postcode": "H3Z 1P2",
+        "addr:province": "QC",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 938 8188",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.586571,
+          45.487372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240187",
+      "properties": {
+        "@id": "node/2500240187",
+        "addr:housenumber": "5550",
+        "addr:postcode": "H4A 1C9 ",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 487 9481",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6221132,
+          45.4761087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240188",
+      "properties": {
+        "@id": "node/2500240188",
+        "addr:housenumber": "5001",
+        "addr:postcode": "H3Z 1H4",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 487 3030",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605799,
+          45.4772926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240189",
+      "properties": {
+        "@id": "node/2500240189",
+        "addr:housenumber": "1386",
+        "addr:postcode": "H3Z 2B1",
+        "addr:province": "QC",
+        "addr:street": "Avenue Greene",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 937 9249",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5915177,
+          45.4876179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240191",
+      "properties": {
+        "@id": "node/2500240191",
+        "addr:housenumber": "6000",
+        "addr:postcode": "H3S 1Z8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 733 3069",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.631377,
+          45.500342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240192",
+      "properties": {
+        "@id": "node/2500240192",
+        "addr:housenumber": "5526",
+        "addr:postcode": "H4A 1W2",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Shaika Cafe",
+        "phone": "+1 514 313 3283",
+        "website": "www.shaikacafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6123402,
+          45.4721283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227164",
+      "properties": {
+        "@id": "node/2501227164",
+        "addr:housenumber": "5620",
+        "addr:postcode": "H3T 1Z2",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 344 2666",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6267434,
+          45.4980929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227166",
+      "properties": {
+        "@id": "node/2501227166",
+        "addr:housenumber": "5206",
+        "addr:postcode": "H3T 1X8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Second Cup",
+        "opening_hours": "24/7",
+        "phone": "+1 514 733 2710",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.620993,
+          45.495611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227167",
+      "properties": {
+        "@id": "node/2501227167",
+        "addr:housenumber": "3315",
+        "addr:postcode": "H3V 1A1",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "opening_hours": "24/7",
+        "phone": "+1 514 738 1887",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6179365,
+          45.4966362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227168",
+      "properties": {
+        "@id": "node/2501227168",
+        "addr:housenumber": "3755",
+        "addr:postcode": "H3T 1E2",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Sainte-Catherine",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 340 1483",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6291294,
+          45.4974278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227169",
+      "properties": {
+        "@id": "node/2501227169",
+        "addr:housenumber": "5170",
+        "addr:postcode": "H3T 1X8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Van Houtte",
+        "phone": "+1 514 439 1278",
+        "website": "www.vanhoutte.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6203869,
+          45.4953046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280948",
+      "properties": {
+        "@id": "node/2501280948",
+        "addr:housenumber": "201",
+        "addr:postcode": "H2T 2M8",
+        "addr:province": "QC",
+        "addr:street": "Avenue Fairmount Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Arts Café",
+        "phone": "+1 514 274 0919",
+        "website": "www.artscafemontreal.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5969857,
+          45.5214546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280950",
+      "properties": {
+        "@id": "node/2501280950",
+        "addr:housenumber": "3500",
+        "addr:postcode": "H2X 2H7",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Cafe Bistro El Mundo",
+        "phone": "+1 514 303 8866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5740146,
+          45.5094591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280951",
+      "properties": {
+        "@id": "node/2501280951",
+        "addr:housenumber": "5263",
+        "addr:postcode": "H2V 4G9",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Caffe In Gamba",
+        "phone": "+1 514 656 6852",
+        "website": "www.cafeingamba.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.599225,
+          45.521088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280962",
+      "properties": {
+        "@id": "node/2501280962",
+        "addr:housenumber": "3501",
+        "addr:postcode": "H2X 2H8",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Presse Café",
+        "phone": "+1 514 844 1101",
+        "website": "www.pressecafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736447,
+          45.5096664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280964",
+      "properties": {
+        "@id": "node/2501280964",
+        "addr:housenumber": "3695",
+        "addr:postcode": "H2X 2V7",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Second Cup",
+        "phone": "+1 514 564 9270",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5743,
+          45.514819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2510769585",
+      "properties": {
+        "@id": "node/2510769585",
+        "addr:housenumber": "5623",
+        "amenity": "cafe",
+        "name": "Gamma",
+        "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-13:00,14:00-23:00; Sa 11:00-23:00; Su 16:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6262556,
+          45.49832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2510769590",
+      "properties": {
+        "@id": "node/2510769590",
+        "addr:housenumber": "5615A",
+        "amenity": "cafe",
+        "name": "Grande gueule"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6261566,
+          45.4982425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2512282033",
+      "properties": {
+        "@id": "node/2512282033",
+        "amenity": "cafe",
+        "name": "Starbucks coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5831442,
+          45.4907413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2513513499",
+      "properties": {
+        "@id": "node/2513513499",
+        "amenity": "cafe",
+        "name": "sufi café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5833836,
+          45.4919333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2519344584",
+      "properties": {
+        "@id": "node/2519344584",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Tim hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5863121,
+          45.4889089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2519380867",
+      "properties": {
+        "@id": "node/2519380867",
+        "amenity": "cafe",
+        "name": "Avesta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5818706,
+          45.4916524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2519449682",
+      "properties": {
+        "@id": "node/2519449682",
+        "amenity": "cafe",
+        "name": "Cold Stone Creamery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5840926,
+          45.4900097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2519458253",
+      "properties": {
+        "@id": "node/2519458253",
+        "amenity": "cafe",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5851338,
+          45.489423
+        ]
+      }
+    }
+  ]
+}

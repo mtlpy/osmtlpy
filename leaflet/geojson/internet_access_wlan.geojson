@@ -1,0 +1,5078 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-12-02T05:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/237590709",
+      "properties": {
+        "@id": "node/237590709",
+        "addr:housenumber": "5101",
+        "addr:postcode": "H2V 4G3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "phone": "+1 514 907 7827",
+        "website": "www.starbucks.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.595909,
+          45.5198842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300077245",
+      "properties": {
+        "@id": "node/300077245",
+        "addr:housenumber": "957",
+        "addr:postcode": "H2J 1X4",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Expressions",
+        "phone": "+1 514 528 9688",
+        "website": "www.cafeexpressions.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5801524,
+          45.5273031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/424724186",
+      "properties": {
+        "@id": "node/424724186",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5702494,
+          45.512661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441233073",
+      "properties": {
+        "@id": "node/441233073",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Casa Bella",
+        "tourism": "hotel",
+        "website": "http://www.hotelcasabella.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5708956,
+          45.5090421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458913001",
+      "properties": {
+        "@id": "node/458913001",
+        "addr:housenumber": "3515",
+        "addr:postcode": "H2X 2T6",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "McKibbins Irish Pub",
+        "phone": "+1 514 282 1580",
+        "website": "www.mckibbinsirishpub.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5711048,
+          45.5133296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458913006",
+      "properties": {
+        "@id": "node/458913006",
+        "addr:housenumber": "3547",
+        "addr:postcode": "H2X 2T6 ",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "internet_access": "wlan",
+        "name": "Papas Tapas-Martinis",
+        "phone": "(+1) 514 544 1321",
+        "website": "www.papastapas.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5718008,
+          45.5136733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458918543",
+      "properties": {
+        "@id": "node/458918543",
+        "addr:housenumber": "3601",
+        "addr:postcode": "H2X 2V5 ",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "phone": "(+1) 514 285 0009",
+        "website": "www.cafedepot.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572641,
+          45.5140664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458919689",
+      "properties": {
+        "@id": "node/458919689",
+        "addr:housenumber": "170",
+        "addr:postcode": "H2X 1B7",
+        "addr:province": "QC",
+        "addr:street": "Rue Prince Arthur Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "internet_access": "wlan",
+        "name": "Les Deux Gamins",
+        "outdoor_seating": "yes",
+        "phone": "(+1) 514 288 3389",
+        "website": "www.lesdeuxgaminsmontreal.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571037,
+          45.51551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458939585",
+      "properties": {
+        "@id": "node/458939585",
+        "addr:housenumber": "185",
+        "addr:postcode": "H2X 1C7",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Gite du Plateau Mont-Royal",
+        "phone": "+1 514 284 1276",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5687784,
+          45.5145848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/458939637",
+      "properties": {
+        "@id": "node/458939637",
+        "addr:housenumber": "157",
+        "addr:postcode": "H2X 1C7",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Armor Manoir Sherbrooke",
+        "phone": "+1 514 845 0915",
+        "tourism": "hotel",
+        "website": "www.armormanoir.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5688395,
+          45.5141985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/463999025",
+      "properties": {
+        "@id": "node/463999025",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5556691,
+          45.5188884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468969691",
+      "properties": {
+        "@id": "node/468969691",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "café mon Plaisir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5560392,
+          45.5062028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468969740",
+      "properties": {
+        "@id": "node/468969740",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5600561,
+          45.5056494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468969753",
+      "properties": {
+        "@id": "node/468969753",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5548977,
+          45.5068164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471064790",
+      "properties": {
+        "@id": "node/471064790",
+        "addr:housenumber": "3695",
+        "addr:postcode": "H2X 2V7",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "514 564 9270",
+        "website": "www.secondcup.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5742661,
+          45.514752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/486668548",
+      "properties": {
+        "@id": "node/486668548",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Van Houtte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5746428,
+          45.493228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497839303",
+      "properties": {
+        "@id": "node/497839303",
+        "addr:street": "Avenue Mont-Royal Est",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Starbuck Coffee",
+        "source": "Local knowledge",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5815843,
+          45.5257124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497841827",
+      "properties": {
+        "@id": "node/497841827",
+        "addr:housenumber": "837",
+        "addr:postcode": "H2J 1W9",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café Art Java",
+        "phone": "+1 514 527 9990",
+        "website": "www.caffeartjava.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5810164,
+          45.5263316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/514593512",
+      "properties": {
+        "@id": "node/514593512",
+        "addr:housenumber": "1241",
+        "addr:postcode": "H2J 1Y2",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "phone": "+1 514 905 1325",
+        "website": "www.starbucks.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5782694,
+          45.5292629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/874174378",
+      "properties": {
+        "@id": "node/874174378",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3635",
+        "addr:postcode": "H2X 3L6",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "internet_access": "wlan",
+        "name": "Café Cherrier",
+        "old_name": "Café des Artistes",
+        "outdoor_seating": "yes",
+        "phone": "514 843 4308",
+        "website": "www.cafecherrier.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5699089,
+          45.5181199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/934189331",
+      "properties": {
+        "@id": "node/934189331",
+        "addr:housenumber": "256",
+        "addr:postcode": "H2W 1M6",
+        "addr:province": "QC",
+        "addr:street": "Rue Roy Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "fax": "(+1) 514 844 0222",
+        "internet_access": "wlan",
+        "name": "Pintxo",
+        "phone": "514 844 0222",
+        "website": "www.pintxo.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736067,
+          45.5178799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/934203568",
+      "properties": {
+        "@id": "node/934203568",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "La petite cuillère",
+        "outdoor_seating": "yes",
+        "website": "http://www.petitecuillere.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569364,
+          45.517867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/938752834",
+      "properties": {
+        "@id": "node/938752834",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1495",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "internet_access": "wlan",
+        "name": "1000 grammes bistro glouton",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.553876,
+          45.521136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/938764690",
+      "properties": {
+        "@id": "node/938764690",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3660",
+        "addr:postcode": "H2X 3L7",
+        "addr:street": "Rue Saint-Denis",
+        "internet_access": "wlan",
+        "name": "Mamie Clafoutis",
+        "phone": "+1 438-380-5624",
+        "shop": "bakery",
+        "website": "www.mamieclafoutis.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.570225,
+          45.518122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/998748014",
+      "properties": {
+        "@id": "node/998748014",
+        "addr:housenumber": "2081",
+        "addr:street": "Rue Guy",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5796559,
+          45.4959818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/998748022",
+      "properties": {
+        "@id": "node/998748022",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Dépôt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5786299,
+          45.4964528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1057444518",
+      "properties": {
+        "@id": "node/1057444518",
+        "addr:postcode": "F4G 4F6",
+        "amenity": "cafe",
+        "cuisine": "doughnuts",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569214,
+          45.502753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1068294976",
+      "properties": {
+        "@id": "node/1068294976",
+        "addr:housenumber": "1500",
+        "addr:postcode": "H3Z 1X5",
+        "addr:province": "QC",
+        "addr:street": "Avenue Atwater",
+        "addr:suburb": "Wesmount",
+        "amenity": "fast_food",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "phone": "+1 514 935 8560",
+        "website": "www.mcdonalds.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5849556,
+          45.489283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1087654099",
+      "properties": {
+        "@id": "node/1087654099",
+        "addr:housenumber": "4219",
+        "addr:postcode": "H4C 1R4",
+        "addr:province": "QC",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "addr:suburb": "Le Sud Ouest",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "email": "info@makmak.ca",
+        "internet_access": "wlan",
+        "name": "MakMak",
+        "phone": "+1 514 778 7770",
+        "website": "www.makmak.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5859915,
+          45.476161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1106511224",
+      "properties": {
+        "@id": "node/1106511224",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5712686,
+          45.4956481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1113852373",
+      "properties": {
+        "@id": "node/1113852373",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Boul Noir",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5819566,
+          45.5252463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1113857777",
+      "properties": {
+        "@id": "node/1113857777",
+        "addr:housenumber": "900",
+        "addr:postcode": "H2J 1X2",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Second Cup",
+        "phone": "514 528 1717",
+        "smoking": "no",
+        "website": "www.secondcup.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5803618,
+          45.5265023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1199680219",
+      "properties": {
+        "@id": "node/1199680219",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5774752,
+          45.4968118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1271378109",
+      "properties": {
+        "@id": "node/1271378109",
+        "addr:housenumber": "3706",
+        "addr:postcode": "H2X 3L7",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "ethiopian",
+        "fax": "514 285 2304",
+        "internet_access": "wlan",
+        "name": "Le Nil Bleu",
+        "phone": "514 285 4628",
+        "website": "www.nilbleu.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5710862,
+          45.518457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1278632281",
+      "properties": {
+        "@id": "node/1278632281",
+        "amenity": "cafe",
+        "cuisine": "doughnuts",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5668224,
+          45.5029402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1290835135",
+      "properties": {
+        "@id": "node/1290835135",
+        "historic": "memorial",
+        "internet_access": "wlan",
+        "name": "Sir John A. Macdonald",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5696489,
+          45.4987528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315087435",
+      "properties": {
+        "@id": "node/1315087435",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5518508,
+          45.5258831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1429426308",
+      "properties": {
+        "@id": "node/1429426308",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5626621,
+          45.5148657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1536070986",
+      "properties": {
+        "@id": "node/1536070986",
+        "addr:housenumber": "6631",
+        "addr:postcode": "H2S 3C5",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Rosemont-Petite-Patrie",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Vices & Versa",
+        "opening_hours": "Tu-Sa 15:00-03:00;Su-Mo 15:00-01:00",
+        "phone": "+1 514 272 2498",
+        "website": "www.vicesetversa.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6105977,
+          45.5313063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557702182",
+      "properties": {
+        "@id": "node/1557702182",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5866801,
+          45.5200022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1558670026",
+      "properties": {
+        "@id": "node/1558670026",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568608,
+          45.50697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1558692909",
+      "properties": {
+        "@id": "node/1558692909",
+        "addr:housenumber": "5059",
+        "addr:postcode": "H2V 4E9",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Van Houtte",
+        "phone": "+1 514 495 1324",
+        "website": "www.vanhoutte.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5953392,
+          45.5196486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1560685331",
+      "properties": {
+        "@id": "node/1560685331",
+        "addr:housenumber": "7000",
+        "addr:postcode": "H3N 1X1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Ahuntsic-Cartierville",
+        "amenity": "cafe",
+        "email": "artere@artere.coop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café l'Artère",
+        "opening_hours": "Mo 08:00-16:00; Tu-We 08:00-22:00; Th 08:00-23:00; Fr: 08:00-00:00; Sa: 10:00-00:00; Su: 10:00-17:00",
+        "phone": "+1 514 419 7798",
+        "website": "www.artere.coop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6201038,
+          45.5295471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1566579180",
+      "properties": {
+        "@id": "node/1566579180",
+        "addr:housenumber": "3990",
+        "addr:postcode": "H2W 1T7",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Urbain",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café Santropol",
+        "phone": "+1 514 842 3110",
+        "website": "www.santropol.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5805297,
+          45.5155749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1570277420",
+      "properties": {
+        "@id": "node/1570277420",
+        "addr:housenumber": "248",
+        "addr:postcode": "H2T 2R7",
+        "addr:province": "QC",
+        "addr:street": "Rue Villeneuve",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Blanc De Blanc",
+        "phone": "+1 514 281 0690",
+        "shop": "laundry",
+        "website": "www.blancdeblanc.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5914088,
+          45.5189106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1570283306",
+      "properties": {
+        "@id": "node/1570283306",
+        "addr:housenumber": "275",
+        "addr:postcode": "H2V 0A1",
+        "addr:province": "QC",
+        "addr:street": "Avenue Fairmount Ouest",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Voro",
+        "phone": "+1 514 509 1341",
+        "website": "www.voro.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5975468,
+          45.5209031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1570292453",
+      "properties": {
+        "@id": "node/1570292453",
+        "addr:housenumber": "100",
+        "addr:postcode": "H2T 2T1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Autour d'Un Pain",
+        "phone": "+1 514 843 0728",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5873667,
+          45.5187151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573455210",
+      "properties": {
+        "@id": "node/1573455210",
+        "addr:housenumber": "3872",
+        "addr:postcode": "H2W 1Y2",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "fax": "514 843 7636",
+        "internet_access": "wlan",
+        "name": "La Cabane du Portugal",
+        "phone": "514 843 7283",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5776928,
+          45.5160395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573455220",
+      "properties": {
+        "@id": "node/1573455220",
+        "addr:housenumber": "4234",
+        "addr:postcode": "H2W 1Z3",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Le Divan Orange",
+        "phone": "+1 514 840 9090",
+        "website": "www.divanorange.org",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5824577,
+          45.5182187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573682001",
+      "properties": {
+        "@id": "node/1573682001",
+        "addr:housenumber": "4415",
+        "addr:postcode": "H2W 1Z8",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "fixme": "Please check if still exists",
+        "internet_access": "wlan",
+        "name": "Meatmarket",
+        "phone": "+1 514 223 2292",
+        "website": "www.meatmarketfood.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5850017,
+          45.5196462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1575104794",
+      "properties": {
+        "@id": "node/1575104794",
+        "addr:housenumber": "3465",
+        "addr:postcode": "H2X 2H5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "name": "Chez Cora",
+        "phone": "(+1) 514 849 4932",
+        "website": "www.chezcora.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5726283,
+          45.5091997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1585848284",
+      "properties": {
+        "@id": "node/1585848284",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "name": "Pizza Charlevoix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5692263,
+          45.4787177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1621008921",
+      "properties": {
+        "@id": "node/1621008921",
+        "addr:housenumber": "7",
+        "addr:postcode": "H3E 2B5",
+        "addr:province": "QC",
+        "addr:street": "Place du Commerce, suite 101",
+        "addr:suburb": "Verdun",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "name:en": "Second Cup",
+        "phone": "+1 514 769 2992",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5432216,
+          45.4680909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643704031",
+      "properties": {
+        "@id": "node/1643704031",
+        "addr:housenumber": "2440",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Starbucks",
+        "operator": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5744759,
+          45.4832514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643704211",
+      "properties": {
+        "@id": "node/1643704211",
+        "addr:housenumber": "2504",
+        "addr:postcode": "H3J 1N5",
+        "addr:province": "QC",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "addr:suburb": "Le Sud Ouest",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "name": "Geppetto Pizzeria",
+        "phone": "+1 514 903 3737",
+        "website": "www.geppettopizza.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5753256,
+          45.4827001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704789540",
+      "properties": {
+        "@id": "node/1704789540",
+        "addr:housenumber": "5302",
+        "addr:postcode": "H3T 1Y2",
+        "addr:street": "Chemin de la Côte-Des-Neiges",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6223941,
+          45.4961933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1707629116",
+      "properties": {
+        "@id": "node/1707629116",
+        "addr:housenumber": "1266",
+        "addr:postcode": "H2J 1Y3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Boutique Point G",
+        "phone": "+1 514 750 7515",
+        "shop": "bakery",
+        "website": "www.boutiquepointg.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5776373,
+          45.5294501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1707714289",
+      "properties": {
+        "@id": "node/1707714289",
+        "addr:housenumber": "1692",
+        "addr:postcode": "H2J 1Z5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "phone": "+1 514 526 7314",
+        "website": "www.mcdonalds.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5744965,
+          45.5326832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1743949895",
+      "properties": {
+        "@id": "node/1743949895",
+        "addr:housenumber": "5201",
+        "addr:postcode": "H2T 2W8",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Urbain",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Barros Luco",
+        "phone": "+1 514 270 7369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5956002,
+          45.5229429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1797226105",
+      "properties": {
+        "@id": "node/1797226105",
+        "addr:housenumber": "3708",
+        "addr:postcode": "H2X 3l7",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Kutuma",
+        "phone": "+1 514 844 0111",
+        "tourism": "hotel",
+        "website": "www.kutuma.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571233,
+          45.5184028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1797272737",
+      "properties": {
+        "@id": "node/1797272737",
+        "addr:housenumber": "500",
+        "addr:street": "rue Rachel Est",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Brasserie Rachel Rachel",
+        "website": "http://www.rachelrachel.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5770789,
+          45.5228393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1803646917",
+      "properties": {
+        "@id": "node/1803646917",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Noir",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5531136,
+          45.5237993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1859173282",
+      "properties": {
+        "@id": "node/1859173282",
+        "addr:housenumber": "4448",
+        "addr:postcode": "H2W 1Z5",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "cuisine": "international",
+        "internet_access": "wlan",
+        "name": "Macaroni Bar",
+        "phone": "+1 514 287 0287",
+        "website": "www.macaronibar.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5860813,
+          45.5198756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1859173413",
+      "properties": {
+        "@id": "node/1859173413",
+        "addr:housenumber": "28",
+        "addr:postcode": "H2T 2S1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "name": "Subway",
+        "phone": "+1 514 544 4834",
+        "website": "www.subway.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5865012,
+          45.5197131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1966795948",
+      "properties": {
+        "@id": "node/1966795948",
+        "addr:housenumber": "3632",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Saint Henri Micro-Torrefaction",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa,Su 08:30-20:00",
+        "website": "http://www.sainthenri.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5811096,
+          45.479372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2023153129",
+      "properties": {
+        "@id": "node/2023153129",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Le Couteau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58446,
+          45.5248916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079833092",
+      "properties": {
+        "@id": "node/2079833092",
+        "addr:housenumber": "387",
+        "addr:postcode": "H2V 1T6 ",
+        "addr:province": "QC",
+        "addr:street": "Avenue Bernard",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "internet_access": "wlan",
+        "name": "Maiko Sushi",
+        "phone": "+1 514 490 1225",
+        "source": "survey",
+        "website": "www.maiko-sushi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6061709,
+          45.5231257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2084767659",
+      "properties": {
+        "@id": "node/2084767659",
+        "addr:housenumber": "263",
+        "addr:postcode": "H2T 1P6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café Kahwa",
+        "phone": "+1 514 564 2111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584173,
+          45.522648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2084785633",
+      "properties": {
+        "@id": "node/2084785633",
+        "addr:housenumber": "5490",
+        "addr:postcode": "H2T 1S1",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café Cagibi",
+        "phone": "+1 514 509 1199",
+        "website": "www.lecagibi.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.598828,
+          45.525634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2103017733",
+      "properties": {
+        "@id": "node/2103017733",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2451",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "amenity": "cafe",
+        "email": "notredame@java-u.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Java U Notre Dame",
+        "operator": "Java U",
+        "phone": "514-5071444",
+        "smoking": "no",
+        "website": "http://www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5747493,
+          45.4833251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2168856702",
+      "properties": {
+        "@id": "node/2168856702",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Café Starbucks Coffee Peel",
+        "operator": "Starbucks",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5734537,
+          45.5001587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2172009102",
+      "properties": {
+        "@id": "node/2172009102",
+        "addr:housenumber": "3026",
+        "addr:postcode": "H4C 1P1",
+        "addr:province": "QC",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "addr:suburb": "Le Sud Ouest",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "opening_hours": "24/7",
+        "operator": "McDonald's",
+        "phone": "+1 514 846 3766",
+        "website": "www.mcdonalds.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5786608,
+          45.4807299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2175711839",
+      "properties": {
+        "@id": "node/2175711839",
+        "amenity": "fast_food",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Tim Hortons",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5723981,
+          45.5087465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2175713420",
+      "properties": {
+        "@id": "node/2175713420",
+        "addr:housenumber": "3498",
+        "addr:postcode": "H2X 2H5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "(+1) 514 286 4422",
+        "website": "www.secondcup.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736247,
+          45.5093469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247027381",
+      "properties": {
+        "@id": "node/2247027381",
+        "addr:city": "Montréal",
+        "addr:housenumber": "35",
+        "addr:postcode": "H2T 1N4 ",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Les Épinards",
+        "phone": "+1 514 657 4110",
+        "website": "www.lesepinards.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5860833,
+          45.5206084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2261597613",
+      "properties": {
+        "@id": "node/2261597613",
+        "addr:city": "Montreal",
+        "addr:country": "CA",
+        "addr:housenumber": "1291",
+        "addr:postcode": "H2V 1K5",
+        "addr:province": "QC",
+        "addr:street": "Avenue Van Horne",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Mamie Clafoutis",
+        "opening_hours": "Mo-Sa: 6:30-20:00;Su: 07:00-20:00",
+        "phone": "+1 514 750 7245",
+        "shop": "bakery",
+        "website": "www.mamieclafoutis.com‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6140993,
+          45.5215503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2268980645",
+      "properties": {
+        "@id": "node/2268980645",
+        "addr:housenumber": "2361",
+        "addr:postcode": "H2K 1W8",
+        "addr:street": "Ontario Est",
+        "alt_name": "Café de quartier",
+        "amenity": "cafe",
+        "designation": "Café de quartier",
+        "internet_access": "wlan",
+        "name": "Coop Touski",
+        "source": "http://www.touski.org/",
+        "website": "http://www.touski.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5545933,
+          45.5311206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2316577147",
+      "properties": {
+        "@id": "node/2316577147",
+        "addr:housenumber": "10",
+        "addr:street": "Ave Des Pins Ouest",
+        "alt_name": "Halbro Bldg",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "name": "Nouri",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5752823,
+          45.5146899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2337746406",
+      "properties": {
+        "@id": "node/2337746406",
+        "addr:city": "Montréal",
+        "addr:housenumber": "156",
+        "addr:postcode": "H2W 1M2",
+        "addr:province": "QC",
+        "addr:street": "Rue Roy Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Else's",
+        "phone": "514 286 6689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574668,
+          45.516828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2397974685",
+      "properties": {
+        "@id": "node/2397974685",
+        "addr:housenumber": "5385",
+        "addr:postcode": "H3T 1X2",
+        "addr:street": "Avenue Gatineau",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Resto-Bar La Maisonnée",
+        "website": "restobarlamaisonnee.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6225259,
+          45.4975859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406166812",
+      "properties": {
+        "@id": "node/2406166812",
+        "addr:housenumber": "1275",
+        "addr:postcode": "H2V 1V8",
+        "addr:province": "QC",
+        "addr:street": "Avenue Bernard",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 271 6624",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6094886,
+          45.5194868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406547233",
+      "properties": {
+        "@id": "node/2406547233",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1709",
+        "addr:postcode": "H2X 3K4",
+        "addr:street": "rue Saint-Denis",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "phone": "+1-514-904-5288",
+        "website": "http://www.starbucks.ca/store/805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5641625,
+          45.5155418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2408142712",
+      "properties": {
+        "@id": "node/2408142712",
+        "addr:housenumber": "1447",
+        "addr:postcode": "H2V 1K9",
+        "addr:province": "QC",
+        "addr:street": "Avenue Van Horne",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Café Van Houtte",
+        "phone": "+1 514 273 5924",
+        "website": "www.vanhoutte.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6156996,
+          45.519925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2424888521",
+      "properties": {
+        "@id": "node/2424888521",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5521433,
+          45.522641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2429838114",
+      "properties": {
+        "@id": "node/2429838114",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1001",
+        "addr:postcode": "H2L 4P9",
+        "addr:street": "Boul. de Maisonneuve Est",
+        "addr:unit": "1130",
+        "amenity": "doctors",
+        "internet_access": "wlan",
+        "name": "Clinique L'Actuel",
+        "phone": "(514) 524-1001",
+        "source": "local_knowledge",
+        "website": "http://cliniquelactuel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5589089,
+          45.5180134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2443756928",
+      "properties": {
+        "@id": "node/2443756928",
+        "addr:city": "Montréal",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5548602,
+          45.5200546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459746290",
+      "properties": {
+        "@id": "node/2459746290",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5557",
+        "addr:postcode": "H4A 1E1 ",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Rockaberry",
+        "phone": "+1 514 487 6252",
+        "source": "local_knowledge",
+        "website": "www.rockaberry.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6225872,
+          45.4762167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459755130",
+      "properties": {
+        "@id": "node/2459755130",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5526",
+        "addr:postcode": "H4A 1C7",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Starbucks",
+        "phone": "+1 514 904 2233",
+        "source": "local_knowledge",
+        "website": "www.starbucks.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6219337,
+          45.4763321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2480567673",
+      "properties": {
+        "@id": "node/2480567673",
+        "addr:housenumber": "3487",
+        "addr:postcode": "H2X 2H6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Chez Gautier",
+        "phone": "(+1) 514 845 2992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5732654,
+          45.5094235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481879476",
+      "properties": {
+        "@id": "node/2481879476",
+        "addr:housenumber": "250",
+        "addr:postcode": "H2T 1P5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Bar Inc.",
+        "phone": "+1 514 845 7946",
+        "website": "www.bar-inc.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5840853,
+          45.5224944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481879478",
+      "properties": {
+        "@id": "node/2481879478",
+        "addr:housenumber": "4051",
+        "addr:postcode": "H2W 2M7 ",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "L'Académie",
+        "phone": "514 849 2249",
+        "website": "www.lacademie.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5759721,
+          45.5208777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481879479",
+      "properties": {
+        "@id": "node/2481879479",
+        "addr:housenumber": "351",
+        "addr:postcode": "H2W 1J3",
+        "addr:province": "QC",
+        "addr:street": "Avenue Duluth Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "fax": "438 380 9292",
+        "internet_access": "wlan",
+        "name": "Le Grain d'or",
+        "phone": "438 380 9090",
+        "website": "www.legraindor.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5764271,
+          45.5203106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481879480",
+      "properties": {
+        "@id": "node/2481879480",
+        "addr:housenumber": "1201",
+        "addr:postcode": "H2J 2J8 ",
+        "addr:province": "QC",
+        "addr:street": "Rue Rachel Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Le Poisson Rouge",
+        "phone": "514 522 4876",
+        "website": "www.restaurantlepoissonrouge.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5734679,
+          45.5265726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481879481",
+      "properties": {
+        "@id": "node/2481879481",
+        "addr:housenumber": "200",
+        "addr:postcode": "H2T 1P3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Le Scoop",
+        "phone": "514 843 9076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5845047,
+          45.5220262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481879482",
+      "properties": {
+        "@id": "node/2481879482",
+        "addr:housenumber": "285",
+        "addr:postcode": "H2T 2S3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Romeo",
+        "phone": "+1 514 987 6636",
+        "website": "www.pizzeriaromeo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5840351,
+          45.5228136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481879483",
+      "properties": {
+        "@id": "node/2481879483",
+        "addr:housenumber": "3800",
+        "addr:postcode": "H2W 2M2",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Subway",
+        "phone": "514 281 1311",
+        "website": "www.subway.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572751,
+          45.519274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131040",
+      "properties": {
+        "@id": "node/2496131040",
+        "addr:housenumber": "1291",
+        "addr:postcode": "H2J 1Y4",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bistro Cornichon",
+        "phone": "+1 438 381 8167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.577737,
+          45.529807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131046",
+      "properties": {
+        "@id": "node/2496131046",
+        "addr:housenumber": "4910",
+        "addr:postcode": "H2T 1R5 ",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "phone": "+1 514 284 6866",
+        "website": "www.cafedepot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5912248,
+          45.5222052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131047",
+      "properties": {
+        "@id": "node/2496131047",
+        "addr:housenumber": "1695",
+        "addr:postcode": "H2J 1Z6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Dépôt",
+        "phone": "+1 514 522 9555",
+        "website": "www.cafedepot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5749155,
+          45.5329156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131052",
+      "properties": {
+        "@id": "node/2496131052",
+        "addr:housenumber": "4750",
+        "addr:postcode": "H2T 2C8",
+        "addr:province": "QC",
+        "addr:street": "Avenue Henri-Julien",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 282 3369",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5865558,
+          45.5238829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131053",
+      "properties": {
+        "@id": "node/2496131053",
+        "addr:housenumber": "5800",
+        "addr:postcode": "H2S 3L5 ",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Rosemont-Petite-Patrie",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 274 2666",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5988739,
+          45.5302163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131060",
+      "properties": {
+        "@id": "node/2496131060",
+        "addr:housenumber": "4450",
+        "addr:postcode": "H2J 2W9",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Hubert",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "community_centre",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Centre de services communautaires du Monastère",
+        "phone": "+1 514 521 9191",
+        "website": "www.cscmonastere.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5810067,
+          45.5253476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131090",
+      "properties": {
+        "@id": "node/2496131090",
+        "addr:housenumber": "4467",
+        "addr:postcode": "H2J 2L2",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Esco Bar",
+        "phone": "+1 514 842 7244",
+        "website": "www.lescobar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5822794,
+          45.5239088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131092",
+      "properties": {
+        "@id": "node/2496131092",
+        "addr:housenumber": "850",
+        "addr:postcode": "H2J 1X1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Le Boudoir",
+        "phone": "+1 514 526 2819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5805841,
+          45.5262046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131093",
+      "properties": {
+        "@id": "node/2496131093",
+        "addr:housenumber": "5121",
+        "addr:postcode": "H2T 1R9",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Le Boui-Boui",
+        "phone": "+1 514 564 9997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5931832,
+          45.523383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131096",
+      "properties": {
+        "@id": "node/2496131096",
+        "addr:housenumber": "4538",
+        "addr:postcode": "H2H 1V3",
+        "addr:province": "QC",
+        "addr:street": "Avenue Papineau",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Lobby Bar",
+        "phone": "+1 514 523 1710",
+        "website": "www.lobbybar.tv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5755659,
+          45.533165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131104",
+      "properties": {
+        "@id": "node/2496131104",
+        "addr:housenumber": "4481",
+        "addr:postcode": "H2J 2L2",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Quai des brumes",
+        "phone": "+1 514 499 0467",
+        "website": "www.quaidesbrumes.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.582643,
+          45.524035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496131108",
+      "properties": {
+        "@id": "node/2496131108",
+        "addr:housenumber": "1648",
+        "addr:postcode": "H2J 1Z5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 524 7772",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5748625,
+          45.5328456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496703811",
+      "properties": {
+        "@id": "node/2496703811",
+        "addr:housenumber": "313",
+        "addr:postcode": "H2S 1R9",
+        "addr:province": "QC",
+        "addr:street": "Rue Beaubien Est",
+        "addr:suburb": "Rosemont-Petite-Patrie",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Bruno Sports Bar Cafe",
+        "phone": "+1 514 271 8364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6061459,
+          45.5331373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896379",
+      "properties": {
+        "@id": "node/2496896379",
+        "addr:housenumber": "6568",
+        "addr:postcode": "H2S 3C6 ",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Rosemont-Petite-Patrie",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Adria Lounge",
+        "phone": "+1 514 270 2999",
+        "website": "www.adrialounge.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.610699,
+          45.531107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896380",
+      "properties": {
+        "@id": "node/2496896380",
+        "addr:city": "Outremont",
+        "addr:housenumber": "1051",
+        "addr:postcode": "H2V 1V1",
+        "addr:province": "QC",
+        "addr:street": "Avenue Bernard",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bistro Le République",
+        "phone": "+1 514 277 0502",
+        "website": "www.bistrolerepublique.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6069451,
+          45.5222629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896381",
+      "properties": {
+        "@id": "node/2496896381",
+        "addr:housenumber": "65",
+        "addr:postcode": "H2S 1K7",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint Zotique Est",
+        "addr:suburb": "Rosemont-Petite-Patrie",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bottega",
+        "phone": "+1 514 277 8104",
+        "website": "www.bottega.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6113509,
+          45.5327279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896382",
+      "properties": {
+        "@id": "node/2496896382",
+        "addr:housenumber": "5607",
+        "addr:postcode": "H2V 4H2",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Café Araucaria",
+        "phone": "+1 514 278 6134",
+        "website": "www.cafearaucaria.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.603059,
+          45.522781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896383",
+      "properties": {
+        "@id": "node/2496896383",
+        "addr:housenumber": "400",
+        "addr:postcode": "H2V 1A5",
+        "addr:province": "QC",
+        "addr:street": "Avenue Atlantic",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 278 4192",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61623,
+          45.527231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896384",
+      "properties": {
+        "@id": "node/2496896384",
+        "addr:housenumber": "5718",
+        "addr:postcode": "H2V 4H1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "EM Café",
+        "phone": "+1 514 303 5735",
+        "website": "www.emcafe.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6050462,
+          45.5232663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896385",
+      "properties": {
+        "@id": "node/2496896385",
+        "addr:housenumber": "1276",
+        "addr:postcode": "H2J 1H1",
+        "addr:province": "QC",
+        "addr:street": "Avenue Laurier Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "El Zaziummm",
+        "phone": "+1 514 598 0344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584324,
+          45.532692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896387",
+      "properties": {
+        "@id": "node/2496896387",
+        "addr:housenumber": "273",
+        "addr:postcode": "H2V 1T5",
+        "addr:province": "QC",
+        "addr:street": "Rue Bernard Ouest",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "HELM Brasseur Gourmand",
+        "phone": "+1 514 276 0473",
+        "website": "www.helm-mtl.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605372,
+          45.524018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896399",
+      "properties": {
+        "@id": "node/2496896399",
+        "addr:housenumber": "112",
+        "addr:postcode": "H2T 2K1",
+        "addr:province": "QC",
+        "addr:street": "Rue Bernard Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "fax": "+1 514 272 0714",
+        "internet_access": "wlan",
+        "name": "L'Assomoir Bernard",
+        "phone": "+1 514 272 0777",
+        "website": "www.assommoir.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.603363,
+          45.525878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896402",
+      "properties": {
+        "@id": "node/2496896402",
+        "addr:housenumber": "1105",
+        "addr:postcode": "H2V 1V4",
+        "addr:province": "QC",
+        "addr:street": "Avenue Bernard",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "La Piazzetta",
+        "phone": "+1 514 278 6465",
+        "website": "www.lapiazzetta.ca "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.607644,
+          45.521742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896411",
+      "properties": {
+        "@id": "node/2496896411",
+        "addr:housenumber": "1300",
+        "addr:postcode": "H3P 3E5",
+        "addr:province": "QC",
+        "addr:street": "Avenue Beaumont",
+        "addr:suburb": "Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "phone": "+1 514 738 7243",
+        "website": "www.mcdonalds.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6253685,
+          45.5204193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896424",
+      "properties": {
+        "@id": "node/2496896424",
+        "addr:housenumber": "405",
+        "addr:postcode": "H3N 1P9",
+        "addr:province": "QC",
+        "addr:street": "Rue Jean Talon Ouest",
+        "addr:suburb": "Ahuntsic-Cartierville",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "phone": "+1 514 276 5551",
+        "website": "www.mcdonalds.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6230278,
+          45.5295869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496896452",
+      "properties": {
+        "@id": "node/2496896452",
+        "addr:housenumber": "789",
+        "addr:postcode": "H3N 1S2",
+        "addr:province": "QC",
+        "addr:street": "Rue Jean Talon Ouest",
+        "addr:suburb": "Ahuntsic-Cartierville",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "internet_access": "wlan",
+        "name": "Panama Rôtisserie",
+        "phone": "+1 514 276 5223",
+        "website": "www.rotisseriepanama.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.624745,
+          45.52646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911284",
+      "properties": {
+        "@id": "node/2496911284",
+        "addr:housenumber": "5505",
+        "addr:postcode": "H2T 1L6",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent , suite 2001",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Café Vienne",
+        "phone": "+1 514 270 1515",
+        "website": "www.cafevienne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5987455,
+          45.5259423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911285",
+      "properties": {
+        "@id": "node/2496911285",
+        "addr:housenumber": "25",
+        "addr:postcode": "H2T 2L9",
+        "addr:province": "QC",
+        "addr:street": "Avenue Fairmount Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "fax": "+1 514 748 2992",
+        "internet_access": "wlan",
+        "name": "Fabergé",
+        "phone": "+1 514 903 6649",
+        "website": "www.restofaberge.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.594999,
+          45.523523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911286",
+      "properties": {
+        "@id": "node/2496911286",
+        "addr:housenumber": "77",
+        "addr:postcode": "H2W 2T6",
+        "addr:province": "QC",
+        "addr:street": "Rue Rachel Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "La Normande",
+        "phone": "+1 514 849 3423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5813233,
+          45.5186858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911287",
+      "properties": {
+        "@id": "node/2496911287",
+        "addr:housenumber": "4647",
+        "addr:postcode": "H2T 1R2 ",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Qi Café",
+        "phone": "+1 514 678 5757",
+        "website": "www.qi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.588662,
+          45.521266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911289",
+      "properties": {
+        "@id": "node/2496911289",
+        "addr:housenumber": "5329",
+        "addr:postcode": "H2T 1S5",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Restaurant Cielo Tapas",
+        "phone": "+1 514 277 7776",
+        "website": "www.restaurantcielo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.596317,
+          45.52476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911290",
+      "properties": {
+        "@id": "node/2496911290",
+        "addr:housenumber": "4231",
+        "addr:postcode": "H2W 1Z4",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Salon B - Bibliocafé",
+        "phone": "+1 514 849 9806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5821392,
+          45.5183672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496911291",
+      "properties": {
+        "@id": "node/2496911291",
+        "addr:housenumber": "5486",
+        "addr:postcode": "H2T 1S5",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Smile restaurant Le Sourire",
+        "phone": "+1 514 493 9416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5986609,
+          45.5255252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498034442",
+      "properties": {
+        "@id": "node/2498034442",
+        "addr:housenumber": "1235",
+        "addr:postcode": "H2J 1Y2 ",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bofinger BBQ Smokehouse",
+        "phone": "+1 514 439 4909",
+        "website": "www.bofinger.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.578315,
+          45.5291906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498034443",
+      "properties": {
+        "@id": "node/2498034443",
+        "addr:housenumber": "1396",
+        "addr:postcode": "H2J 1Y7",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Chez Cora",
+        "phone": "+1 514 525 9495",
+        "website": "www.chezcora.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5764145,
+          45.5306649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498034445",
+      "properties": {
+        "@id": "node/2498034445",
+        "addr:housenumber": "1651",
+        "addr:postcode": "H2J 1Z6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Kameila",
+        "phone": "+1 514 523 6979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575274,
+          45.532404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498034448",
+      "properties": {
+        "@id": "node/2498034448",
+        "addr:housenumber": "1019",
+        "addr:postcode": "H2J 1X7",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Stromboli",
+        "phone": "+1 514 528 5020",
+        "website": "www.restaurantstromboli.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5797232,
+          45.5276937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498034450",
+      "properties": {
+        "@id": "node/2498034450",
+        "addr:housenumber": "1251",
+        "addr:postcode": "H2J 1Y4",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "internet_access": "wlan",
+        "name": "Wakamono",
+        "phone": "+1 514 527 2747",
+        "website": "www.wakamono.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5780787,
+          45.5294558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498040648",
+      "properties": {
+        "@id": "node/2498040648",
+        "addr:housenumber": "929",
+        "addr:postcode": "H2J 1X3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Misto",
+        "phone": "+1 514 526 5043",
+        "website": "www.restomisto.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5804637,
+          45.5268964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498040654",
+      "properties": {
+        "@id": "node/2498040654",
+        "addr:housenumber": "4275",
+        "addr:postcode": "H2J 2K9",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Rockaberry",
+        "phone": "+1 514 844 9479",
+        "website": "www.rockaberry.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.579235,
+          45.522449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498047303",
+      "properties": {
+        "@id": "node/2498047303",
+        "addr:housenumber": "1105",
+        "addr:street": "Boulevard de Maisonneuve Est",
+        "cuisine": "french",
+        "internet_access": "wlan",
+        "name": "Pâtisserie Rouge & Noir",
+        "shop": "bakery",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5585294,
+          45.5184142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500174462",
+      "properties": {
+        "@id": "node/2500174462",
+        "addr:housenumber": "5365",
+        "addr:postcode": "H3X 1T9",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Hampstead",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 485 2909",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6303259,
+          45.4825261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500174463",
+      "properties": {
+        "@id": "node/2500174463",
+        "addr:housenumber": "5395",
+        "addr:postcode": "H3X 1V1",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Hampstead",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "The Reserve Tavern MK",
+        "phone": "+1 514 481-3111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6304982,
+          45.4823375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240131",
+      "properties": {
+        "@id": "node/2500240131",
+        "addr:housenumber": "5468",
+        "addr:postcode": "H4A 1V9",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Astra Deli",
+        "phone": "+1 514 486 5958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6113042,
+          45.4727061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240132",
+      "properties": {
+        "@id": "node/2500240132",
+        "addr:housenumber": "5667",
+        "addr:postcode": "H4A 1W6",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bofinger BBQ Smokehouse",
+        "phone": "+1 514 315 5056",
+        "website": "www.bofinger.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615245,
+          45.4711605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240137",
+      "properties": {
+        "@id": "node/2500240137",
+        "addr:housenumber": "4126",
+        "addr:postcode": "H3Z 1P4",
+        "addr:province": "QC",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Café London Bus",
+        "phone": "+1 514 931 5571",
+        "website": "www.cafelondonbus.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5869309,
+          45.4868517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240144",
+      "properties": {
+        "@id": "node/2500240144",
+        "addr:housenumber": "5511",
+        "addr:postcode": "H4A 1C8",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 369 1688",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.622015,
+          45.476726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240145",
+      "properties": {
+        "@id": "node/2500240145",
+        "addr:housenumber": "4914",
+        "addr:postcode": "H3Z 1H3",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Java U",
+        "phone": "+1 514 482 7077",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6043594,
+          45.4779429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240146",
+      "properties": {
+        "@id": "node/2500240146",
+        "addr:housenumber": "5120",
+        "addr:postcode": "H3W 1X2",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 343 5288",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6272369,
+          45.48519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240147",
+      "properties": {
+        "@id": "node/2500240147",
+        "addr:housenumber": "4104",
+        "addr:postcode": "H3Z 1P2",
+        "addr:province": "QC",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 938 8188",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.586571,
+          45.487372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240150",
+      "properties": {
+        "@id": "node/2500240150",
+        "addr:housenumber": "4075",
+        "addr:postcode": "H3Z 3J8 ",
+        "addr:province": "QC",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Kaizen Sushi Bar & Restaurant",
+        "phone": "+1 514 707 8744",
+        "website": "www.70sushi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5868389,
+          45.4878919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240151",
+      "properties": {
+        "@id": "node/2500240151",
+        "addr:housenumber": "5240",
+        "addr:postcode": "H3W 1X5",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Kanda Sushi",
+        "phone": "+1 514 483 6388",
+        "website": "www.kanda-sushi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62845,
+          45.484166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240153",
+      "properties": {
+        "@id": "node/2500240153",
+        "addr:housenumber": "5675",
+        "addr:postcode": "H4A 1W7",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Kokkino Cafe",
+        "phone": "+1 514 803 5627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615497,
+          45.4710133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240160",
+      "properties": {
+        "@id": "node/2500240160",
+        "addr:housenumber": "4785",
+        "addr:postcode": "H3Z 1G5",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "L'Oeufrier",
+        "phone": "+1 514 934 5000",
+        "website": "www.loeufrier.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6027788,
+          45.4798357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240177",
+      "properties": {
+        "@id": "node/2500240177",
+        "addr:housenumber": "5011",
+        "addr:postcode": "H3Z 1H5",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "phone": "+1 514 487 1981",
+        "website": "www.mcdonalds.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6059174,
+          45.4771402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240178",
+      "properties": {
+        "@id": "node/2500240178",
+        "addr:housenumber": "5155",
+        "addr:postcode": "H3W 1X6",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "phone": "+1 514 487 1981",
+        "website": "www.mcdonalds.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6284313,
+          45.4852343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240182",
+      "properties": {
+        "@id": "node/2500240182",
+        "addr:housenumber": "4160",
+        "addr:postcode": "H3Z 1P4",
+        "addr:province": "QC",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Real Bagel",
+        "phone": "+1 514 846 3773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5873892,
+          45.4863031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240183",
+      "properties": {
+        "@id": "node/2500240183",
+        "addr:housenumber": "3171",
+        "addr:postcode": "H4C 1G7",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Jacques Ouest",
+        "addr:suburb": "Le Sud Ouest",
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "internet_access": "wlan",
+        "name": "Rosty",
+        "phone": "+1 514 564 4747",
+        "website": "www.rostypoulet.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5803577,
+          45.4836303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240185",
+      "properties": {
+        "@id": "node/2500240185",
+        "addr:housenumber": "5568",
+        "addr:postcode": "H4A 1C9",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Santé-Vous Bien Traiteur",
+        "phone": "+1 514 487 7575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.622378,
+          45.475855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240187",
+      "properties": {
+        "@id": "node/2500240187",
+        "addr:housenumber": "5550",
+        "addr:postcode": "H4A 1C9 ",
+        "addr:province": "QC",
+        "addr:street": "Avenue de Monkland",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 487 9481",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6221132,
+          45.4761087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240188",
+      "properties": {
+        "@id": "node/2500240188",
+        "addr:housenumber": "5001",
+        "addr:postcode": "H3Z 1H4",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 487 3030",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605799,
+          45.4772926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240189",
+      "properties": {
+        "@id": "node/2500240189",
+        "addr:housenumber": "1386",
+        "addr:postcode": "H3Z 2B1",
+        "addr:province": "QC",
+        "addr:street": "Avenue Greene",
+        "addr:suburb": "Westmount",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 937 9249",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5915177,
+          45.4876179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240191",
+      "properties": {
+        "@id": "node/2500240191",
+        "addr:housenumber": "6000",
+        "addr:postcode": "H3S 1Z8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 733 3069",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.631377,
+          45.500342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240192",
+      "properties": {
+        "@id": "node/2500240192",
+        "addr:housenumber": "5526",
+        "addr:postcode": "H4A 1W2",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Shaika Cafe",
+        "phone": "+1 514 313 3283",
+        "website": "www.shaikacafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6123402,
+          45.4721283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240193",
+      "properties": {
+        "@id": "node/2500240193",
+        "addr:housenumber": "1336",
+        "addr:postcode": "H3Z 2B1",
+        "addr:province": "QC",
+        "addr:street": "Avenue Greene",
+        "addr:suburb": "Westmount",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "name": "Vago",
+        "phone": "+1 514 846 1414",
+        "website": "www.restaurantvago.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.590712,
+          45.487197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227158",
+      "properties": {
+        "@id": "node/2501227158",
+        "addr:housenumber": "5700",
+        "addr:postcode": "H3T 2A8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "hospital",
+        "internet_access": "wlan",
+        "name": "CLSC Côte-des-Neiges",
+        "phone": "+1 514 731 8531",
+        "website": "www.csssdelamontagne.qc.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6273459,
+          45.498425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227159",
+      "properties": {
+        "@id": "node/2501227159",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5159",
+        "addr:postcode": "H3T 1X9",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Chez Cook's",
+        "phone": "+1 514 510 5710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6198985,
+          45.4954655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227160",
+      "properties": {
+        "@id": "node/2501227160",
+        "addr:housenumber": "5940",
+        "addr:postcode": "H3S 1Z5",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Chez Cora",
+        "phone": "+1 514 341 2672",
+        "website": "www.chezcora.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6307593,
+          45.5000217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227161",
+      "properties": {
+        "@id": "node/2501227161",
+        "addr:housenumber": "3715",
+        "addr:postcode": "H3V 1A7",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Commensal",
+        "phone": "+1 514 733 9755",
+        "website": "www.commensal.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6198748,
+          45.4944973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227162",
+      "properties": {
+        "@id": "node/2501227162",
+        "addr:housenumber": "5179",
+        "addr:postcode": "H3T 1Y1",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Eggspectation",
+        "opening_hours": "Mo-Fr 06:30-16:00; Sa,Su 07:00-17:00",
+        "phone": "+1 514 507 4499",
+        "website": "www.eggspectations.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6202609,
+          45.4956301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227163",
+      "properties": {
+        "@id": "node/2501227163",
+        "addr:housenumber": "5315",
+        "addr:postcode": "H3T 1X1 ",
+        "addr:province": "QC",
+        "addr:street": "Avenue Gatineau",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Il Galateo",
+        "phone": "+1 514 737 1606",
+        "website": "www.ilgalateo.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.621337,
+          45.496996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227164",
+      "properties": {
+        "@id": "node/2501227164",
+        "addr:housenumber": "5620",
+        "addr:postcode": "H3T 1Z2",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Java U",
+        "phone": "+1 514 344 2666",
+        "website": "www.java-u.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6267434,
+          45.4980929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227165",
+      "properties": {
+        "@id": "node/2501227165",
+        "addr:housenumber": "6025",
+        "addr:postcode": "H3S 1Z9",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonalds",
+        "phone": "+1 514 341 6137",
+        "website": "www.mcdonalds.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.631055,
+          45.5006667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227166",
+      "properties": {
+        "@id": "node/2501227166",
+        "addr:housenumber": "5206",
+        "addr:postcode": "H3T 1X8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Second Cup",
+        "opening_hours": "24/7",
+        "phone": "+1 514 733 2710",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.620993,
+          45.495611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227167",
+      "properties": {
+        "@id": "node/2501227167",
+        "addr:housenumber": "3315",
+        "addr:postcode": "H3V 1A1",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "opening_hours": "24/7",
+        "phone": "+1 514 738 1887",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6179365,
+          45.4966362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227168",
+      "properties": {
+        "@id": "node/2501227168",
+        "addr:housenumber": "3755",
+        "addr:postcode": "H3T 1E2",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Sainte-Catherine",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Second Cup",
+        "phone": "+1 514 340 1483",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6291294,
+          45.4974278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501227169",
+      "properties": {
+        "@id": "node/2501227169",
+        "addr:housenumber": "5170",
+        "addr:postcode": "H3T 1X8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Van Houtte",
+        "phone": "+1 514 439 1278",
+        "website": "www.vanhoutte.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6203869,
+          45.4953046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501250654",
+      "properties": {
+        "@id": "node/2501250654",
+        "addr:housenumber": "300",
+        "addr:postcode": "H3E 1A8 ",
+        "addr:province": "QC",
+        "addr:street": "Chemin du Golf",
+        "addr:suburb": "Verdun",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Chez Cora",
+        "phone": "+1 514 768 9222",
+        "website": "www.chezcora.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5483938,
+          45.4679706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501250655",
+      "properties": {
+        "@id": "node/2501250655",
+        "addr:housenumber": "1510",
+        "addr:postcode": "H3C 1L1",
+        "addr:province": "QC",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "addr:suburb": "Le Sud Ouest",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "La Bistrote",
+        "phone": "+1 514 903 3858",
+        "website": "www.labistrote.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5660076,
+          45.4904352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501250659",
+      "properties": {
+        "@id": "node/2501250659",
+        "addr:housenumber": "8",
+        "addr:postcode": "H3E 1N3",
+        "addr:province": "QC",
+        "addr:street": "Place du Commerce",
+        "addr:suburb": "Verdun",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Steak Frites St-Paul",
+        "phone": "+1 514 766 8222",
+        "website": "www.steakfrites.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5412092,
+          45.4676264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280948",
+      "properties": {
+        "@id": "node/2501280948",
+        "addr:housenumber": "201",
+        "addr:postcode": "H2T 2M8",
+        "addr:province": "QC",
+        "addr:street": "Avenue Fairmount Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Arts Café",
+        "phone": "+1 514 274 0919",
+        "website": "www.artscafemontreal.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5969857,
+          45.5214546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280949",
+      "properties": {
+        "@id": "node/2501280949",
+        "addr:housenumber": "5145",
+        "addr:postcode": "H2V 4G3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bofinger BBQ Smokehouse",
+        "phone": "+1 514 564 3411",
+        "website": "www.bofinger.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.597121,
+          45.520371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280950",
+      "properties": {
+        "@id": "node/2501280950",
+        "addr:housenumber": "3500",
+        "addr:postcode": "H2X 2H7",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Cafe Bistro El Mundo",
+        "phone": "+1 514 303 8866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5740146,
+          45.5094591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280951",
+      "properties": {
+        "@id": "node/2501280951",
+        "addr:housenumber": "5263",
+        "addr:postcode": "H2V 4G9",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Caffe In Gamba",
+        "phone": "+1 514 656 6852",
+        "website": "www.cafeingamba.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.599225,
+          45.521088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280955",
+      "properties": {
+        "@id": "node/2501280955",
+        "addr:housenumber": "1045",
+        "addr:postcode": "H2J 1X7",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Chez Baptiste",
+        "phone": "+1 514 522 1384",
+        "website": "www.chezbaptiste.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5919473,
+          45.5148494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280956",
+      "properties": {
+        "@id": "node/2501280956",
+        "addr:housenumber": "5210",
+        "addr:postcode": "H2V 4G7",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Damas Cuisine Syrienne",
+        "phone": "+1 514 439 5435",
+        "website": "www.damasrestaurant.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.597996,
+          45.520456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280957",
+      "properties": {
+        "@id": "node/2501280957",
+        "addr:housenumber": "4581",
+        "addr:postcode": "H2V 4E4",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "El Zaziummm",
+        "phone": "+1 514 499 3675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.590711,
+          45.517555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280959",
+      "properties": {
+        "@id": "node/2501280959",
+        "addr:housenumber": "3600",
+        "addr:postcode": "H2X 2V4",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Juliette & Chocolat",
+        "phone": "+1 438 380 1090",
+        "website": "www.julietteetchocolat.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5727952,
+          45.5138368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280960",
+      "properties": {
+        "@id": "node/2501280960",
+        "addr:housenumber": "377",
+        "addr:postcode": "H2V 2K3",
+        "addr:province": "QC",
+        "addr:street": "Rue Laurier Ouest",
+        "addr:suburb": "Outremont",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Juliette & Chocolat",
+        "phone": "+1 514 510 5651",
+        "website": "www.julietteetchocolat.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.596475,
+          45.519133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280962",
+      "properties": {
+        "@id": "node/2501280962",
+        "addr:housenumber": "3501",
+        "addr:postcode": "H2X 2H8",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Presse Café",
+        "phone": "+1 514 844 1101",
+        "website": "www.pressecafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736447,
+          45.5096664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280963",
+      "properties": {
+        "@id": "node/2501280963",
+        "addr:housenumber": "5171",
+        "addr:postcode": "H2V 4G3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "fax": "+1 514 731 8330",
+        "internet_access": "wlan",
+        "name": "Queen Sushi",
+        "phone": "+1 514 731 8330",
+        "website": "www.queensushi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5972432,
+          45.5204687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280964",
+      "properties": {
+        "@id": "node/2501280964",
+        "addr:housenumber": "3695",
+        "addr:postcode": "H2X 2V7",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Second Cup",
+        "phone": "+1 514 564 9270",
+        "website": "www.secondcup.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5743,
+          45.514819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501280965",
+      "properties": {
+        "@id": "node/2501280965",
+        "addr:housenumber": "1014",
+        "addr:postcode": "H2V 2K8",
+        "addr:province": "QC",
+        "addr:street": "Avenue Laurier Ouest",
+        "addr:suburb": "Outremont",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Steak Frites St-Paul",
+        "phone": "+1 514 270 1666",
+        "website": "www.steakfrites.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.596676,
+          45.518424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503033175",
+      "properties": {
+        "@id": "node/2503033175",
+        "addr:housenumber": "3428",
+        "addr:postcode": "H4A 3G6",
+        "addr:province": "QC",
+        "addr:street": "Rue Addington",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "internet_access": "wlan",
+        "name": "Carole's Purrfect B&B",
+        "phone": "+1 514 486 3995",
+        "tourism": "guest_house",
+        "website": "www.purrfectbnb.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6119868,
+          45.4731524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503326555",
+      "properties": {
+        "@id": "node/2503326555",
+        "addr:housenumber": "4555",
+        "addr:postcode": "H2V 4E4",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Plateau Royale",
+        "phone": "+1 514 844 0944",
+        "tourism": "hotel",
+        "website": "www.hotelplateauroyale.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.590313,
+          45.517388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503326563",
+      "properties": {
+        "@id": "node/2503326563",
+        "addr:housenumber": "4544",
+        "addr:postcode": "H2V 4E3",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Outremont",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hôtel Park Avenue",
+        "phone": "+1 514 274 5000",
+        "tourism": "hotel",
+        "website": "www.hotelparkave.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5903976,
+          45.5170339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503326571",
+      "properties": {
+        "@id": "node/2503326571",
+        "addr:housenumber": "350",
+        "addr:postcode": "H2X 3R4",
+        "addr:province": "QC",
+        "addr:street": "Rue Prince Arthur Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "La Cité Apartments",
+        "phone": "+1 514 845 4173",
+        "tourism": "hotel",
+        "website": "www.lacite.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57571,
+          45.5100431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503326579",
+      "properties": {
+        "@id": "node/2503326579",
+        "addr:housenumber": "3625",
+        "addr:postcode": "H2X 3P8",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McGill University New Residence Hall",
+        "phone": "+1 514 398 3669",
+        "tourism": "hotel",
+        "website": "www.mcgill.canrh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5760862,
+          45.5109028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503326580",
+      "properties": {
+        "@id": "node/2503326580",
+        "addr:housenumber": "3463",
+        "addr:postcode": "H2X 2H6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Parc",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Parc Suites Hotel",
+        "phone": "+1 514 985 5656",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5724587,
+          45.5090738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503326582",
+      "properties": {
+        "@id": "node/2503326582",
+        "addr:housenumber": "623",
+        "addr:postcode": "H2X 1T9",
+        "addr:province": "QC",
+        "addr:street": "Rue Prince Arthur Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "University Bed and Breakfast",
+        "phone": "+1 866 842 6396",
+        "tourism": "guest_house",
+        "website": "www.universitybedandbreakfast.ca‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5783746,
+          45.5080329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503343432",
+      "properties": {
+        "@id": "node/2503343432",
+        "addr:housenumber": "3466",
+        "addr:postcode": "H2X 3L3",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Auberge du Carre St-Louis",
+        "phone": "+1 514 982 9307",
+        "tourism": "hotel",
+        "website": "www.aubergecarrestlouis.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5687377,
+          45.517271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503343433",
+      "properties": {
+        "@id": "node/2503343433",
+        "addr:housenumber": "279",
+        "addr:postcode": "H2X 1Y2",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Montreal Luxury Apartments",
+        "phone": "+1 514 277 6464",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571328,
+          45.508787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503376988",
+      "properties": {
+        "@id": "node/2503376988",
+        "addr:housenumber": "4119",
+        "addr:postcode": "H2W 2M7",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Denis",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Anne ma soeur Anne Hotel Studio",
+        "phone": "+1 514 281 3187",
+        "tourism": "hotel",
+        "website": "www.annemasoeuranne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5768959,
+          45.5214426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503376989",
+      "properties": {
+        "@id": "node/2503376989",
+        "addr:housenumber": "1304",
+        "addr:postcode": "H2J 1Y5",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Auberge Jeunesse Globetrotter",
+        "phone": "+1 514 521 9628",
+        "tourism": "hotel",
+        "website": "www.hostelglobetrotter.com‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5772296,
+          45.5298704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503376990",
+      "properties": {
+        "@id": "node/2503376990",
+        "addr:housenumber": "1301",
+        "addr:postcode": "H2J 2K1",
+        "addr:province": "QC",
+        "addr:street": "Rue  Rachel Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Auberge de La Fontaine",
+        "phone": "+1 514 597 0166",
+        "tourism": "hotel",
+        "website": "www.aubergedelafontaine.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572582,
+          45.52765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503376992",
+      "properties": {
+        "@id": "node/2503376992",
+        "addr:housenumber": "3950",
+        "addr:postcode": "H2W 2J2",
+        "addr:province": "QC",
+        "addr:street": "Avenue Laval",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bienvenue Bed & Breakfast",
+        "phone": "+1 514 844 5897",
+        "tourism": "guest_house",
+        "website": "www.bienvenuebb.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5761158,
+          45.5185103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503376993",
+      "properties": {
+        "@id": "node/2503376993",
+        "addr:housenumber": "4543",
+        "addr:postcode": "H2J 3V7",
+        "addr:province": "QC",
+        "addr:street": "Rue Fabre",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Gîte Chez Maurice",
+        "phone": "+1 514 525 6218",
+        "tourism": "guest_house",
+        "website": "www.chezmaurice.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5766351,
+          45.5320314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503376995",
+      "properties": {
+        "@id": "node/2503376995",
+        "addr:housenumber": "438",
+        "addr:postcode": "H2J 1W1",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hôtel Le Plateau",
+        "phone": "+1 514 661 0873",
+        "tourism": "hotel",
+        "website": "www.hotelstaymontroyal.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5824478,
+          45.524294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503429165",
+      "properties": {
+        "@id": "node/2503429165",
+        "addr:housenumber": "310",
+        "addr:postcode": "H2W 1H9",
+        "addr:province": "QC",
+        "addr:street": "Avenue Duluth Est",
+        "addr:suburb": "Outremont",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Buanderie Net-Net",
+        "phone": "+1 514 844 8511",
+        "shop": "laundry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.576596,
+          45.519887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503429167",
+      "properties": {
+        "@id": "node/2503429167",
+        "addr:housenumber": "819",
+        "addr:postcode": "H2J 2H7",
+        "addr:province": "QC",
+        "addr:street": "Rue Rachel Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Chassé Toyota",
+        "phone": "+1 514 527 3411",
+        "shop": "car",
+        "website": "www.chassetoyota.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5764412,
+          45.5239362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503429172",
+      "properties": {
+        "@id": "node/2503429172",
+        "addr:housenumber": "4528",
+        "addr:postcode": "H2T 1R3",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Furisme Coiffure",
+        "phone": "+1 514 270 8666",
+        "shop": "hairdresser",
+        "website": "www.furisme.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.587229,
+          45.520368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2503429180",
+      "properties": {
+        "@id": "node/2503429180",
+        "addr:housenumber": "5219",
+        "addr:postcode": "H3T 1Y1",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "fax": "+1 514 739 3630",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Olivieri Librairie & Bistro",
+        "phone": "+1 514 739 3303",
+        "shop": "books",
+        "website": "www.librairieolivieri.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6207628,
+          45.495833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2504551878",
+      "properties": {
+        "@id": "node/2504551878",
+        "addr:housenumber": "551",
+        "addr:postcode": "H2J 1W6",
+        "addr:province": "QC",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "addr:suburb": "Le Plateau-Mont-Royal",
+        "internet_access": "wlan",
+        "leisure": "dance",
+        "name": "Studio Bizz",
+        "phone": "(+1) 514 526 2455",
+        "website": "www.studiobizz.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5819854,
+          45.5252137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2504567280",
+      "properties": {
+        "@id": "node/2504567280",
+        "addr:housenumber": "5785",
+        "addr:postcode": "H4A 1X2",
+        "addr:province": "QC",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "internet_access": "wlan",
+        "name": "Coop La Maison Verte",
+        "phone": "(+1) 514 489 8000",
+        "shop": "greengrocer",
+        "website": "www.cooplamaisonverte.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6172142,
+          45.4701292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2510769596",
+      "properties": {
+        "@id": "node/2510769596",
+        "addr:housenumber": "5225",
+        "addr:postcode": "H3T 1Y1",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Terrasse Royale",
+        "phone": "+1 514 739 6391",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "www.terrasse-royale.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6208176,
+          45.4958569
+        ]
+      }
+    }
+  ]
+}
