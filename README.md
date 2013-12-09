@@ -26,9 +26,12 @@ Finalement, nous utilisons [Leaflet](http://leafletjs.com/) pour afficher un fic
 
 Pour exécuter les exemples, il suffit d'aller dans le répertoire, et de lancer le serveur Web intégré de Python 2.x:
 
- python -m SimpleHTTPServer
+    $ python -m SimpleHTTPServer
 
-On peut alors pointer son navigateur sur l'adresse suivante pour voir la carte : http://localhost:8000/
+On peut alors pointer son navigateur sur l'adresse suivante pour voir la carte :
+
+    http://localhost:8000/
+
 Prenez note : le navigateur Web Chrome ne fonctionne pas bien avec le serveur intégré du module Python SimpleHTTPServer. Utilisez Firefox pour de meilleurs résultats.
 
 
